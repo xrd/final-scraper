@@ -2,9 +2,6 @@ require 'mechanize'
 
 class Scraper
 
-  attr_accessor :root
-  attr_accessor :mechanize
-
   def initialize
     @root = "http://web.archive.org/web/20030820233527/http://bytravelers.com/journal/entry/"
     @mechanize = Mechanize.new 
