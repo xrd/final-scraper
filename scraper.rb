@@ -4,11 +4,10 @@ class Scraper
 
   attr_accessor :root
   attr_accessor :mechanize
+
   def initialize
     @root = "http://web.archive.org/web/20030820233527/http://bytravelers.com/journal/entry/"
-    @mechanize = Mechanize.new { |agent|
-      agent.user_agent_alias = 'Mac Safari'
-    }
+    @mechanize = Mechanize.new 
   end
 
   def run
@@ -16,8 +15,7 @@ class Scraper
       begin
         url = "#{@root}#{i}"
         @mechanize.get( url ) do |page|
-          rows = ( page / "table[valign=top] tr font" )
-          puts rows[0].text if rows[0]
+          puts "#{i} #{page.title}"
         end
       end
     end
