@@ -33,14 +33,14 @@ class Scraper
   end
 
   def process_title( row )
-    puts row.text().strip
+    row.strip
   end
 
   def run
     scrape()
     @pages.each do |page|
       rows = ( page / "table[valign=top] tr" )
-      process_title( rows[0] )
+      puts process_title( rows[0].text() )
     end
   end
 
