@@ -33,7 +33,7 @@ class Scraper
   end
 
   def process_title( row )
-    row.strip
+    row.strip.gsub( /"/, '' )
   end
 
   def run
