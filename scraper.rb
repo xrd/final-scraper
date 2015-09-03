@@ -1,5 +1,7 @@
 require 'mechanize'
 require 'vcr'
+require 'yaml'
+
 VCR.configure do |c|
   c.cassette_library_dir = 'cached'
   c.hook_into :webmock
@@ -36,11 +38,52 @@ class Scraper
     row.strip.gsub( /"/, '' )
   end
 
+  def process_body( paragraphs )
+    body = ""
+    paragraphs.each do |p|
+      text = p.text().strip.gsub( /\*\s*/, '' )
+      body += text + "\n\n"
+    end
+    body
+  end
+
+  def get_filename( title, date )
+    processed_title = title.downcase.gsub( '"', '' ).gsub( /\s+/, '-').gsub( /\//, '-' ).gsub( ':', '-' ).gsub( ',', '' )
+    "#{date}-#{processed_title}"
+  end
+
+  def render( processed )
+    processed['layout'] = 'post'
+    rendered = <<"TEMPLATE"
+---
+#{processed.to_yaml}
+---
+
+TEMPLATE
+    rendered
+  end
+
+  def write( rendered, processed )
+    Dir.mkdir( "_posts" ) unless File.exists?( "_posts" )
+    filename = get_filename( processed['title'], processed['creation_date'] )
+    File.open( "_posts/#{filename}.md", "w+" ) do |f|
+      f.write rendered
+    end
+  end
+
+  def process_creation_date( date )
+    date.split( /last updated on:/ )[1]
+  end
+
   def run
     scrape()
     @pages.each do |page|
       rows = ( page / "table[valign=top] tr" )
-      puts process_title( rows[0].text() )
+      processed = {}
+      processed['title'] = process_title( rows[0].text() )
+      processed['creation_date'] = process_creation_date( rows[3].text() )
+      rendered = render( processed )
+      write( rendered, processed )
     end
   end
 
