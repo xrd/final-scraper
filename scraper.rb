@@ -77,8 +77,7 @@ class Scraper
       rows = ( page / "table[valign=top] tr" )
       processed = {}
       processed['title'] = process_title( rows[0].text() )
-      creation_date = DateTime.parse( process_creation_date( rows[3].text() ) )
-      processed['creation_date'] = "#{creation_date.strftime('%Y-%m-%d')}"
+      processed['creation_date'] = process_creation_date( rows[3].text() )
       rendered = render( processed )
       write( rendered, processed )
     end
