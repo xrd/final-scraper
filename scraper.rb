@@ -48,8 +48,9 @@ class Scraper
   end
 
   def get_filename( title, date )
-    processed_title = title.downcase.gsub( '"', '' ).gsub( /\s+/, '-').gsub( /\//, '-' ).gsub( ':', '-' ).gsub( ',', '' )
-    "#{date}-#{processed_title}"
+    processed_date = DateTime.parse( date )
+    processed_title = title.downcase.gsub( /[^a-z]+/, '-' )
+    "#{processed_date.strftime('%Y-%m-%d')}-#{processed_title}.md"
   end
 
   def render( processed )
@@ -66,7 +67,7 @@ TEMPLATE
   def write( rendered, processed )
     Dir.mkdir( "_posts" ) unless File.exists?( "_posts" )
     filename = get_filename( processed['title'], processed['creation_date'] )
-    File.open( "_posts/#{filename}.md", "w+" ) do |f|
+    File.open( "_posts/#{filename}", "w+" ) do |f|
       f.write rendered
     end
   end
