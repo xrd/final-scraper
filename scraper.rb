@@ -55,12 +55,7 @@ class Scraper
 
   def render( processed )
     processed['layout'] = 'post'
-    rendered = <<"TEMPLATE"
----
-#{processed.to_yaml}
----
-
-TEMPLATE
+    rendered = "#{processed.to_yaml}---\n\n"
     rendered
   end
 
@@ -82,7 +77,8 @@ TEMPLATE
       rows = ( page / "table[valign=top] tr" )
       processed = {}
       processed['title'] = process_title( rows[0].text() )
-      processed['creation_date'] = process_creation_date( rows[3].text() )
+      creation_date = DateTime.parse( process_creation_date( rows[3].text() ) )
+      processed['creation_date'] = "#{creation_date.strftime('%Y-%m-%d')}"
       rendered = render( processed )
       write( rendered, processed )
     end
