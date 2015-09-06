@@ -28,6 +28,8 @@ class Scraper
             end
           end
         end
+      rescue Exception => e
+        STDERR.puts "Unable to scrape this file (#{i})"
       end
     end
   end
