@@ -30,12 +30,14 @@ class Scraper
             end
           end
         end
+      rescue Exception => e
+        STDERR.puts "Unable to scrape this file (#{i})"
       end
     end
   end
 
   def process_title( row )
-    row.strip.gsub( /"/, '' ) if row
+    row.strip.gsub( /"/, '' ) # if row
   end
 
   def process_body( paragraphs )
