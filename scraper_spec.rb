@@ -15,6 +15,10 @@ describe "#run" do
       str = '\n\n something between newlines \n\n' 
       expect( @scraper.process_title( str ) ).to_not match( /^\n\n/ )
     end
+
+    it "should not crash if the title is nil" do
+      expect( @scraper.process_title( nil ) ).to_not raise_error()
+    end
   end
 
   describe "#get_filename" do
