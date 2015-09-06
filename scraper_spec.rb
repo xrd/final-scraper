@@ -17,7 +17,7 @@ describe "#run" do
     end
 
     it "should not crash if the title is nil" do
-      expect( @scraper.process_title( nil ) ).to_not raise_error()
+      expect{ @scraper.process_title( nil ) }.to_not raise_error()
     end
   end
 

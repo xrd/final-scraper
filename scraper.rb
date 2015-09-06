@@ -35,7 +35,7 @@ class Scraper
   end
 
   def process_title( row )
-    row.strip.gsub( /"/, '' )
+    row.strip.gsub( /"/, '' ) if row
   end
 
   def process_body( paragraphs )
