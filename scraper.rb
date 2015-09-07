@@ -71,7 +71,7 @@ class Scraper
 
   def process_creation_date( date )
     tuple = date.split( /last updated on:/ )
-    rv = tuple[1].strip
+    rv = tuple[1].strip if tuple and tuple.length > 1
     rv
   end
 
