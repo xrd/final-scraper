@@ -55,12 +55,6 @@ class Scraper
     "#{processed_date.strftime('%Y-%m-%d')}-#{processed_title}.md"
   end
 
-  def render( processed )
-    processed['layout'] = 'post'
-    rendered = "#{processed.to_yaml}---\n\n"
-    rendered
-  end
-
   def write( rendered, processed )
     Dir.mkdir( "_posts" ) unless File.exists?( "_posts" )
     filename = get_filename( processed['title'], processed['creation_date'] )
@@ -75,6 +69,17 @@ class Scraper
     rv
   end
 
+  def render( processed )
+    processed['layout'] = 'post'
+    filtered = processed.reject{ |k,v| k.eql?('body') }
+    rendered = "#{filtered.to_yaml}---\n\n" + processed['body']
+    rendered
+  end
+
+  def process_body( paragraphs )
+    paragraphs.map { |p| p.text() }.join "\n\n"
+  end
+  
   def run
     scrape()
     @pages.each do |page|
@@ -82,6 +87,7 @@ class Scraper
       processed = {}
       processed['title'] = process_title( rows[0].text() )
       processed['creation_date'] = process_creation_date( rows[3].text() )
+      processed['body'] = process_body( rows[4] / "p"  )
       rendered = render( processed )
       write( rendered, processed )
     end
