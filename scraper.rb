@@ -70,7 +70,9 @@ class Scraper
   end
 
   def process_creation_date( date )
-    date.split( /last updated on:/ )[1]
+    tuple = date.split( /last updated on:/ )
+    rv = tuple[1].strip
+    rv
   end
 
   def run
