@@ -1,6 +1,7 @@
 ---
 title: The Hill-Tribes of Northern Thailand
 creation_date: '2000-08-28'
+image: photo.gif
 author: pointsurf
 layout: post
 ---

@@ -1,6 +1,7 @@
 ---
 title: Check out this Travel Planning Website
 creation_date: '2001-12-02'
+image: paper.gif
 author: tadon
 layout: post
 ---

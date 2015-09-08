@@ -1,6 +1,7 @@
 ---
 title: Solo Tango in Buenos Aires
 creation_date: '2001-03-11'
+image: photo.gif
 author: Cherie Magnus (macfroggy)
 layout: post
 ---

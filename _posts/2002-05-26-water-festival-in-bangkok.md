@@ -1,6 +1,7 @@
 ---
 title: Water Festival in Bangkok
 creation_date: '2002-05-26'
+image: photo.gif
 author: Danny Spitler (dispitler)
 layout: post
 ---

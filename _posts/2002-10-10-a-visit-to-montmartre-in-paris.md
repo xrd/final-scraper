@@ -1,6 +1,7 @@
 ---
 title: A Visit to Montmartre in Paris
 creation_date: '2002-10-10'
+image: star.gif
 author: Danny Spitler (dispitler)
 layout: post
 ---

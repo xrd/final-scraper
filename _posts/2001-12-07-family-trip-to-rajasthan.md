@@ -1,6 +1,7 @@
 ---
 title: Family trip to Rajasthan
 creation_date: '2001-12-07'
+image: star.gif
 author: maniraji
 layout: post
 ---

@@ -1,6 +1,7 @@
 ---
 title: Two Days in St. Petersburg
 creation_date: '2002-10-10'
+image: tower.gif
 author: Danny Spitler (dispitler)
 layout: post
 ---

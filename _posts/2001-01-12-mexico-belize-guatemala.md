@@ -1,6 +1,7 @@
 ---
 title: Mexico/Belize/Guatemala
 creation_date: '2001-01-12'
+image: phone.gif
 author: MD
 layout: post
 ---

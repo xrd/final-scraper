@@ -1,6 +1,7 @@
 ---
 title: The Great Wall
 creation_date: '2002-07-06'
+image: hut.gif
 author: Danny Spitler (dispitler)
 layout: post
 ---

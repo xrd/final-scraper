@@ -1,6 +1,7 @@
 ---
 title: Third day in Salvador
 creation_date: '2000-05-23'
+image: photo.gif
 author: Chris Dawson (cdawson)
 layout: post
 ---

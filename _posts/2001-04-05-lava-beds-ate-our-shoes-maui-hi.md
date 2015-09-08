@@ -1,6 +1,7 @@
 ---
 title: Lava Beds Ate Our Shoes; Maui, HI
 creation_date: '2001-04-05'
+image: book.gif
 author: Mark Kashman (mkashman)
 layout: post
 ---

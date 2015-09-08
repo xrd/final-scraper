@@ -1,6 +1,7 @@
 ---
 title: South Africa
 creation_date: '2001-01-12'
+image: phone.gif
 author: MD
 layout: post
 ---

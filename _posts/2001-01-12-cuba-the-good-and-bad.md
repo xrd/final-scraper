@@ -1,6 +1,7 @@
 ---
 title: Cuba - the good and bad
 creation_date: '2001-01-12'
+image: paper.gif
 author: MD
 layout: post
 ---

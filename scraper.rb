@@ -1,6 +1,7 @@
 require 'mechanize'
 require 'vcr'
 require 'yaml'
+require 'fileutils'
 
 VCR.configure do |c|
   c.cassette_library_dir = 'cached'
@@ -80,6 +81,25 @@ class Scraper
     paragraphs.map { |p| p.text() }.join "\n\n"
   end
 
+  def process_image( title )
+    img = ( title / "img" )
+    src = img.attr('src').text()
+    filename = src.split( "/" ).pop
+    
+    output = "assets/images/"
+    FileUtils.mkdir_p output unless File.exists? output
+    full = File.join( output, filename )
+
+    puts "Downloading #{full}"
+    unless File.exists? full
+      root = "https://web.archive.org"
+      remote = root + src
+      `curl #{remote} -o #{full}`
+    end
+
+    filename
+  end
+  
   def run
     scrape()
     @pages.each do |page|
@@ -88,6 +108,7 @@ class Scraper
       processed['title'] = process_title( rows[0].text() )
       processed['creation_date'] = process_creation_date( rows[3].text() )
       processed['body'] = process_body( rows[4] / "p"  )
+      processed['image'] = process_image( rows[0] )
       author_text = ( rows[2] / "td font" )[0].text()
       processed['author'] = $1.strip if author_text =~ /author:\s+\n\n+(.+)\n\n+/
       rendered = render( processed )
