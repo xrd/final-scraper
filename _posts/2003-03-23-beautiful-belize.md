@@ -1,6 +1,7 @@
 ---
 title: Beautiful Belize
 creation_date: '2003-03-23'
+author: RE Ausetkmt (ausetkmt)
 layout: post
 ---
 

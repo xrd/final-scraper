@@ -1,6 +1,7 @@
 ---
 title: Romantic Prague
 creation_date: '2002-10-10'
+author: Danny Spitler (dispitler)
 layout: post
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Cuba - the good and bad
 creation_date: '2001-01-12'
+author: MD
 layout: post
 ---
 

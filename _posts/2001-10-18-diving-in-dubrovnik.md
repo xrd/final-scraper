@@ -1,6 +1,7 @@
 ---
 title: Diving in Dubrovnik
 creation_date: '2001-10-18'
+author: Chris Dawson (cdawson)
 layout: post
 ---
 
