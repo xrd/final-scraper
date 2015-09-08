@@ -90,11 +90,11 @@ class Scraper
     FileUtils.mkdir_p output unless File.exists? output
     full = File.join( output, filename )
 
-    puts "Downloading #{full}"
-    unless File.exists? full
+    if not File.exists? full or not File.size? full
       root = "https://web.archive.org"
       remote = root + src
-      `curl #{remote} -o #{full}`
+      # puts "Downloading #{full} from #{remote}"
+      `curl -L #{remote} -o #{full}`
     end
 
     filename
