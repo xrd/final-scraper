@@ -6,6 +6,8 @@ author: Danny Spitler (dispitler)
 layout: post
 ---
 
+### Written by: Danny Spitler (dispitler)
+
 There is something about landing at Bangkok Airport that is 
 special…..at least to the male members of our family.  This 
 was the country where, twenty years ago, we negotiated and 

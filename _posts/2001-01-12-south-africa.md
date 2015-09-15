@@ -6,6 +6,8 @@ author: MD
 layout: post
 ---
 
+### Written by: MD
+
 I got in from South Africa a few days ago after enjoying a 
 month travelling up the coast from Cape Town to 
 Johannesburg via Durban and Swaziland. What a great way to 

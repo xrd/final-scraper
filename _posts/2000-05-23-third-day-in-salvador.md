@@ -6,6 +6,8 @@ author: Chris Dawson (cdawson)
 layout: post
 ---
 
+### Written by: Chris Dawson (cdawson)
+
 So far I've only really come in contact with people who speak English 
 well.  Aside from my roommate who speak English not at all, that is.  
 The first person I met was Jussara, the daughter of the woman who is 

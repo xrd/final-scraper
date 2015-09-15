@@ -6,6 +6,8 @@ author: Chris Dawson (cdawson)
 layout: post
 ---
 
+### Written by: Chris Dawson (cdawson)
+
 Anyone who had forgotten flowers in their haste needn't 
 have worried, for there were plenty of flower stands 
 dotting the edge of the cemetery as the bus pulled up and 

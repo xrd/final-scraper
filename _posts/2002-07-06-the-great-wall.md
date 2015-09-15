@@ -6,6 +6,8 @@ author: Danny Spitler (dispitler)
 layout: post
 ---
 
+### Written by: Danny Spitler (dispitler)
+
 I could hardly contain my anticipation for Monday's tour.  
 There were a couple of stops scheduled along the way, but 
 the day's bus ride was going to conclude at The Great Wall 

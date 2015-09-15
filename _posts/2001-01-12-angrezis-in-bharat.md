@@ -6,6 +6,8 @@ author: MD
 layout: post
 ---
 
+### Written by: MD
+
 Well since we last wrote we were heading for India.
 
 On our way there we stopped in at Chitwan Nat. Park

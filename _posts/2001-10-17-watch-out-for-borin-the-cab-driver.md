@@ -6,6 +6,8 @@ author: Chris Dawson (cdawson)
 layout: post
 ---
 
+### Written by: Chris Dawson (cdawson)
+
 The walled city of Dubrovnik would have none of this, and 
 instantly banished all of those thoughts leaving me in 
 awe.  I decided to leave the sobe and get some dinner.  I 

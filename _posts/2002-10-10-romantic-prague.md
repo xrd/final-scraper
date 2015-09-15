@@ -6,6 +6,8 @@ author: Danny Spitler (dispitler)
 layout: post
 ---
 
+### Written by: Danny Spitler (dispitler)
+
 I had hoped to be able to get to the hotel from the train 
 station using the subway system and my two-year-old memory 
 of the streets of Prague.  I found the right subway stop, 

@@ -6,6 +6,8 @@ author: pointsurf
 layout: post
 ---
 
+### Written by: pointsurf
+
 First thing, supplies. They would 
 supply food and blankets. What I needed 
 was a poncho for the rain, mosquito 

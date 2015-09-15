@@ -6,6 +6,8 @@ author: sharondawson14
 layout: post
 ---
 
+### Written by: sharondawson14
+
 We met Jeanne and Vic at the Newark Airport on Monday that day and all 
 flew together to Zurich, Switzerland.  The flight to Zurich was about 8 
 hours; we lost time by flying east.  We were met by the bus from Educational 

@@ -73,7 +73,9 @@ class Scraper
   def render( processed )
     processed['layout'] = 'post'
     filtered = processed.reject{ |k,v| k.eql?('body') }
-    rendered = "#{filtered.to_yaml}---\n\n" + processed['body']
+    rendered = "#{filtered.to_yaml}---\n\n" +
+      "### Written by: #{processed['author']}\n\n" +
+            processed['body']
     rendered
   end
 

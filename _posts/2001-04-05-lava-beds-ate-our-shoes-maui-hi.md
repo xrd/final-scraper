@@ -6,6 +6,8 @@ author: Mark Kashman (mkashman)
 layout: post
 ---
 
+### Written by: Mark Kashman (mkashman)
+
 "Says here just two miles to the deserted black-sand beach," 
 said Carolyna, my wife and love now doning her sneakers in 
 place of the recently purchased flip-flops; though they need 

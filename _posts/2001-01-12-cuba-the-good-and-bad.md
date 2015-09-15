@@ -6,6 +6,8 @@ author: MD
 layout: post
 ---
 
+### Written by: MD
+
 Cuba, what an interesting place??!!
 My arrival into Havana wasn't the best, being faced with 
 corrupt 

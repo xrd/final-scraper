@@ -6,6 +6,8 @@ author: Cherie Magnus (macfroggy)
 layout: post
 ---
 
+### Written by: Cherie Magnus (macfroggy)
+
 	Suddenly one of the men stands up and begins to 
 sing, loudly, proudly, passionately. Heads nod with 
 approval. A woman in gold beads joins in. 

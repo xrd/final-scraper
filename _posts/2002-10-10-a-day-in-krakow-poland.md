@@ -6,6 +6,8 @@ author: Danny Spitler (dispitler)
 layout: post
 ---
 
+### Written by: Danny Spitler (dispitler)
+
 I awoke in my Katowice hotel room just before my small 
 travel alarm clock went off, and I showered quickly. I 
 pulled on a white tee shirt, blue jeans, and walking shoes. 

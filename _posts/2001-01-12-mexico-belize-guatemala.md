@@ -6,6 +6,8 @@ author: MD
 layout: post
 ---
 
+### Written by: MD
+
 Dear All
 Well it´s been six weeks on the road throughout Mexico and 
 Guatemala.

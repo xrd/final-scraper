@@ -6,6 +6,8 @@ author: Danny Spitler (dispitler)
 layout: post
 ---
 
+### Written by: Danny Spitler (dispitler)
+
 When we emerged from the subway and entered the street 
 scene we understood exactly what she had meant.  We were in 
 a bustling, working class neighborhood filled with a myriad 

@@ -6,6 +6,8 @@ author: Chris Dawson (cdawson)
 layout: post
 ---
 
+### Written by: Chris Dawson (cdawson)
+
 I am sure I was not alone in my thinking about getting on 
 an airplane after September 11th.  I definitely gave it 
 more reflection and thought than I would have given it 

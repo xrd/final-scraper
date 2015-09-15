@@ -6,6 +6,8 @@ author: Danny Spitler (dispitler)
 layout: post
 ---
 
+### Written by: Danny Spitler (dispitler)
+
 Russia continues to be more restrictive on its tourists 
 than other European countries.  In order to enter Russia 
 you must secure a visa from a Russian Consulate in the 

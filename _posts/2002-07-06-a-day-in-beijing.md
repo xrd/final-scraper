@@ -6,6 +6,8 @@ author: Danny Spitler (dispitler)
 layout: post
 ---
 
+### Written by: Danny Spitler (dispitler)
+
 We arrived at the China World Hotel around noon on 
 Saturday, China time.  We had lost a day crossing the 
 International Dateline.  The hotel was five star in all 

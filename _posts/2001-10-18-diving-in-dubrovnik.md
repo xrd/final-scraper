@@ -6,6 +6,8 @@ author: Chris Dawson (cdawson)
 layout: post
 ---
 
+### Written by: Chris Dawson (cdawson)
+
 The first stop we made was for a cave dive. It was just the
 two of us, so Anton dropped his gear into the water after
 filling his BCD vest with air, and helped me into my two

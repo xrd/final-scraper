@@ -6,6 +6,8 @@ author: RE Ausetkmt (ausetkmt)
 layout: post
 ---
 
+### Written by: RE Ausetkmt (ausetkmt)
+
 This winter I took a holiday cruise which included the 
 port of Belize City, Belize. I had never traveled to 
 Belize so this was the perfect opportunity; with the fares 

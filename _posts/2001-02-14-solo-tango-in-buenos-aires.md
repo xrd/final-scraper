@@ -6,6 +6,8 @@ author: macfroggy
 layout: post
 ---
 
+### Written by: macfroggy
+
 	It’s just before dawn, and our small group of Argentines 
 and Americans are tired and filled with reverie after a 
 night of tango. We’re drooped over cafés con leche on an old 
