@@ -8,6 +8,13 @@ layout: post
 
 ### Written by: sharondawson14
 
+On Sunday, Sept. 17 Jeanne picked up Vic at Jackie's and they drove to a 
+motel in DesMoines where they stayed overnight, taking the hotel shuttle to 
+the DesMoines airport the following morning for the flight to Chicago and 
+then Newark.  Marietta and Sharon caught an early morning shuttle bus on 
+Sept. 18 from the First Methodist Church parking lot to Los Angeles 
+International Airport.
+
 We met Jeanne and Vic at the Newark Airport on Monday that day and all 
 flew together to Zurich, Switzerland.  The flight to Zurich was about 8 
 hours; we lost time by flying east.  We were met by the bus from Educational 
@@ -26,7 +33,7 @@ guessed that he was a participant.  People of the village must be  residents
 for 20 years before they can audition for a part in the play and the men 
 start growing facial hair in the fall since no wigs or false hair pieces are 
 used.  The guide said that often there will be signs posted  saying I'll be back 
-in one hour and one knows that the shop keeper is performing at that time.  
+in one hour and one knows that the shop keeper is performing at that time.
 
 We had purchased copies of the play in English so we could follow along 
 with the text.  The Chorus was most impressive as were the costumes and 
@@ -44,11 +51,9 @@ Oberammergau, there was some time for shopping and looking.  Jeanne bought a
 nut cracker for Bradley and Sharon was checking out prices on wood carvings 
 for Tim.
 
-
 The lines for the bathroom were always long but never ever longer than at 
 the play.  All were worried about fire safety as there was one long corridor 
 that the women had to pass through to get into the bathroom.
-
 
 The afternoon session started about 1:30 and lasted until 6:10.  We had 
 the fast Jesus as the main parts in the play are double cast and this man 
@@ -57,7 +62,6 @@ warm and got warmer and Sharon started shedding clothes during the afternoon.
  The woman in front of her was a bit worried.   After the play, it started to 
 rain and we got on the bus and returned to the hotel and dinner.  All really 
 slept well that night.
-    
 
 The following morning it was raining.  We were headed for Innsbruk that 
 day, the city of the winter Olympics of 1964 and 1976.  The 2000  summer 
@@ -70,7 +74,7 @@ his ancestors.  His tomb is there but he is buried elsewhere.  We then walked
 the medieval streets of Innsbruk to the Golden Roof.  Our guide, Barbora, was 
 insistent that we know that there were 2,657 golden tiles on the roof and 
 quizzed us often during the rest of the week.  This balcony was where the 
-royal court convened to watch tournaments and amusements in the square below. 
+royal court convened to watch tournaments and amusements in the square below.
 
 We visited a Swarovski crystal store which was three floors of glittering 
 treasures.  Our lunch was in an upstairs bar where we had soup and bread.  We 
@@ -83,7 +87,7 @@ stimulate all the senses.  We never did get to taste anything, much to our
 disappointmen, however.  A member of our group slipped on the wet pavement 
 and had to be taken to a local hospital for stitches over her eye.  Caroline 
 had quite the shiner but felt fortunate not to have broken any bones.  Local 
-Austrians were quite helpful getting her to the hospital.   
+Austrians were quite helpful getting her to the hospital.
 
 We had dinner where Freddie was the dining room host.  Freddie liked to 
 have things HIS way and we soon learned who was in charge.  There were 
@@ -109,7 +113,7 @@ lovely and the altar, breathtaking.  There is a sports academy adjacent to
 the monastery and many of Tirolas youth come here to train.  Our next stop 
 was a spaghetti lunch at Landeck Castle.  It was simple but we ate it all!  
 The dessert was sachertorte, chocolate and apricot with the pieces much too 
-skimpy!!!!  
+skimpy!!!!
 
 The castle was primitive and very old, probably about the 15th century.  
 There were many artifacts that showed how people lived and farmed in those 
@@ -117,17 +121,17 @@ days.  Many things were ornately carved and decorated.  That's probably what
 they did in the middle of winter.  We were interested in the toilet which was 
 a seat on the second floor that emptied  to the ground below.  There was a 
 magnificent panoramic view of the surrounding countryside from the tower 
-above. 
+above.
 
 Our weather just got better and on Saturday we went to Liechtenstein, a 
 tiny principality between Austria and Switzerland.  Neither Liechtenstein nor 
 Switzerland are in the European Union and they use Swiss currency so we were  
 busy converting from Swiss francs  to  Austrian schillings to US dollars.  It 
-was enough to bust ones brain!  
+was enough to bust ones brain!
 
 We walked around the main street of the capital, Vaduz, and had a soup 
 lunch at an outdoor cafe.  Sharon was always ordering beer and stealing paper 
-coasters for her souveniers.  She was never once arrested!  
+coasters for her souveniers.  She was never once arrested!
 
 Liechstenstein is famous for stamps, dolls and for having international 
 corportations headquartered there to avoid taxes in other countries.  Sharon 
@@ -174,7 +178,7 @@ expensive sheet!!!)
 We had a 2 1/2 hour ride back to Steinach and then dinner, followed by a 
 musical presentation in the local hall.  Three opera singers sang Austrian 
 opera for us and then songs from the film, The Sound of Music.  It was a late 
-evening and moreover,  we had to be ON the bus at 3:45 AM the next day.   
+evening and moreover,  we had to be ON the bus at 3:45 AM the next day.
 
 We received a 3 AM wake up call and a "box breakfast" and were off to 
 Zurich, after picking up other EO folks from other hotels,  for our return 
@@ -182,7 +186,7 @@ flight home.  Henry said we were on the "California extension."
 
 We stopped at the Swiss/Austrian border to have our VAT (value added tax) 
 forms stamped so we could send in for tax-free refunds.  We arrived in Zurich 
-and bid "auf wiedersehen" to Europe. 
+and bid "auf wiedersehen" to Europe.
 
 Vic and Jeanne could not get their boarding passes all the way to 
 DesMoines because they were flying Continental to Newark and then United to 
@@ -199,12 +203,13 @@ Marietta and Sharon also missed the connecting flight to Los Angeles in
 Newark but fortunately, there was a later non-stop flight which Continental 
 held for them and the others on the Zurich flight.  They returned to LAX 
 about 9:30 PM and caught a shuttle with the other Fullerton folks to their 
-front door! 
+front door!
 
 It was quite a trip!  We figured Vic was the oldest at 87, Marietta next 
 at 83 and Jeanne was the youngster at 81. All three ladies went everywhere, 
-saw everything, and we all had a great time!           
+saw everything, and we all had a great time!
 
-  
+
+
 
 

@@ -8,6 +8,7 @@ layout: post
 
 ### Written by: ednanni
 
+Viagiatore
 
 
 
@@ -36,13 +37,12 @@ layout: post
 
 
 "Journeys, like artists, are born and not made. A thousand different circumstances contribute to them, few of them 
-willed or determined by the will…whatever we may think. 
+willed or determined by the will…whatever we may think.
 
 They flower spontaneously out of the demands of our natures…and the best of them lead not only outwards in space, 
 but inwards as well. Travel can be one of the most rewarding forms of introspection…
 
-	These thoughts belong to Venice at dawn…
-
+These thoughts belong to Venice at dawn…
 
 Lawrence Durrell
 Bitter Lemons of Cyprus
@@ -63,30 +63,29 @@ gray night clouds.
 A vibrant rose glow eventually back-lit this gun metal gray layer 
 until it took on the sun’s crimson colouring. Foreshadowing? Perhaps God was providing a preview. Later, as our 
 journey unfolded, we would see these peach, pearl, opal, ochre, terra cotta colours again in the fields, walls and roof-
-tops of Tuscany. 
+tops of Tuscany.
 
 As we descended into Milan, the fullness of colour faded as the dawn-tinted clouds eventually gave way to dark gray 
-again. Ombra. It felt as though a shadow was following us down. 
+again. Ombra. It felt as though a shadow was following us down.
 
 Fog was falling from the clouds. The shadowy sky hovered over the airport and runways, bringing the humidity with 
-it. 
+it.
 
 Finally, I am in Italy.
 
 It feels as though it has taken me a lifetime to get here.
 
-My father left Italy at the age of 14 and never returned. 
+My father left Italy at the age of 14 and never returned.
 
 He sailed on the "Roma," third class, on October 14, 1926. From Vacri a small town in Chieti province he came to join 
 his father Adamo in Sault Ste. Marie. His younger brothers, Ignatius, Mario and Michele would soon follow. Letizia, 
-his mother had passed away. 
+his mother had passed away.
 
 Giuseppe Nanni landed at Ellis Island and cleared immigration on November 3rd. On November 4th he arrived in 
 Canada at La Colle, Quebec. His tattered old passport says he was 16. But, that was a lie. Looking closely you can see 
 where the date has been clumsily erased. Someone changed the 10 to an 8. Boldly wrote over the number. The 
 penmanship and ink were blatantly different than the original. Perhaps he couldn’t sail on his own unless he was of 
-age. 
-
+age.
 
 On the Nanni family record registered in Vacri his birthday is listed as February 23, 1910. It seems my father was as 
 determined to get to Canada as I was to get to Italy.
@@ -105,7 +104,7 @@ elevator attempting to adjust their next move to the timing of the opening and c
 squeeze themselves in amongst the luggage push buttons that refuse to obey their frustrated fingers.
 
 Fatigue, aggravation and uncertainty seem to be in sync with the elevators. Frustration is feeding them. Eventually 
-the elevators grow tired of their little game and carry the defeated passengers to their next level of confusion. 
+the elevators grow tired of their little game and carry the defeated passengers to their next level of confusion.
 
 Now, there are cars to rent, trains and buses to catch. And journeys to begin.
 
@@ -117,33 +116,33 @@ On the railway ride into Milan, the Tappers are evident in all their artistry.
 The have sprayed their names, signs and caricatures on the concrete walls of buildings, bridges and out-of-service 
 trains so much so that you feel you are in New York City and not Milan. We flash by big, bold, vivid faces, symbols 
 and sayings that we can’t understand. These paintings shout at us, "Benvenuti al Italia," in a shocking new-world way. 
-This only happens in America. 
+This only happens in America.
 
 You don’t expect this in Italy.
 
 Antica Locanda Dei Mercanti
 
 Via San Tomasco is a simple little street just off Via Dante in the centro storico of Milano. Our cab driver had no 
-trouble finding it. Our hotel, though, was nowhere in sight. 
+trouble finding it. Our hotel, though, was nowhere in sight.
 
 We stopped at the corner. The proprietor of a Travel Agency was standing outside his store.
 
 "Dov’e la Antica Locanda Dei Mercanti?" asked our driver.
 
-"E qui," he replied, pointing to what looked like an ordinary apartment building next door. 
+"E qui," he replied, pointing to what looked like an ordinary apartment building next door.
 
 Yes, there it was, #6 the address we were looking for. But, there was no sign. Nothing was obvious from the street. 
 Not even the small white card scotch taped to the door. 
  
 The man from the travel agency indicated that the hotel was on the second floor. Inside the dark foyer we found a 
-larger sign and half a flight of stairs up we found an elevator. 
+larger sign and half a flight of stairs up we found an elevator.
 
 It was the size of a phone booth.
 
 I went with the bags. Norma climbed the stairs.
 
 Sliding back the steel-grate doors I saw a woman dressed in black like the women that work at Holts in Toronto. Our 
-innkeeper. She smiled as she told us that our room wasn’t ready. The room would be ours at noon. 
+innkeeper. She smiled as she told us that our room wasn’t ready. The room would be ours at noon.
 
 It was 9:30 in the morning.
  
@@ -158,13 +157,13 @@ We wander. Espresso, caffe latte and brioche become our breakfast at an outdoor 
 doesn’t understand what we want and because we don’t really know.
 
 We walk. The Duomo looms up before us. Massive, ornate and white-spired it dominates our view. Inside, its seems to 
-double in size. Outside, the expanse of the piazza matches the church in magnitude. 
+double in size. Outside, the expanse of the piazza matches the church in magnitude.
 
 They started building the Duomo in 1386. Napolean ordered them to complete it in 1813 when he ruled Milan. He was 
 a man who liked to get things done. Perhaps he knew he had to finish it to make room for the people and the 
 pigeons.
 
-After settling into our Hotel it wasn’t until after 3:00 that we were back on the streets of Milan. 
+After settling into our Hotel it wasn’t until after 3:00 that we were back on the streets of Milan.
 
 The heat and humidity had peaked. So had the crowds of tourists. We were making a gallant attempt to catch up with 
 ourselves and the time and place we were suddenly immersed in. We hadn’t slept in 24 hours and we hadn’t eaten. 
@@ -173,16 +172,16 @@ dispiace.
 Paninni or pizza were our alternate choices. Which leads to Lesson Two. Don’t walk the streets of a strange city eating 
 pizza.
 
-A young, weary-eyed gypsy was suddenly in front of me. 
+A young, weary-eyed gypsy was suddenly in front of me.
 
 "For the baby. For the baby," she said, pushing a child to me. She held the child in one arm in some sling-like harness 
 made with enough material to hide her other hand.
 
 "For the baby. For the baby." There was hardly any room between us. Out of the corner of my eye I saw Norma. 
-Crowding her were a young boy and obviously pregnant girl. 
+Crowding her were a young boy and obviously pregnant girl.
 
 I called Norma’s name. She began yelling. Surprised, the boy and girl backed away from her. The pregnant girl came 
-over to me. 
+over to me.
 
 "For the baby." 
 I jumped back. Looking down I saw that the snap on my bag had been opened. The gypsies disappeared into the street 
@@ -195,7 +194,7 @@ Now, we were awake.
 
 Travel is a great teacher. If you are not a good student the end results are all too evident.
 
-A little shaken but not deterred we cautiously continue on to our original destination, Castello Sforzesco. 
+A little shaken but not deterred we cautiously continue on to our original destination, Castello Sforzesco.
 
 Entering over an empty moat and under a grand arch you find yourself in a large courtyard. Around you are fortified 
 red-brick walls with wide stairways leading to walkways and towers. There are three courtyards, each with buildings 
@@ -203,7 +202,7 @@ now converted to museums and galleries. It is in one of these that we come face 
 
 In a secluded corner his Rondanini Pieta sits unfinished. This is the piece he worked on for the last nine years of his 
 life. You can see the powerful chisel marks in the marble. You can feel the figures struggling to emerge. Even though 
-the marble is unpolished you can see the beauty of Michelangelo’s vision waiting to be made clear. 
+the marble is unpolished you can see the beauty of Michelangelo’s vision waiting to be made clear.
 
 Curiously a third arm hangs from a block of stone beside the uncompleted sculpture. It reminds me of a poster we’ve 
 seen of an old man holding a newspaper. Seated beside him is a woman staring off into space. From underneath the 
@@ -211,7 +210,7 @@ newspaper a third arm is reaching for the woman’s purse.
 
 An incident with the gypsies, the poster and a stone third arm, I can’t help but smile at the coincidence.
 
-The street just outside our hotel is closed to traffic. 
+The street just outside our hotel is closed to traffic.
 
 A local bar has taken advantage of this and set up a side walk café on the road. It’s a perfect place for us to sit in the 
 shade and enjoy a beer. When I order, I’m given a look that I know I will eventually get used to. Norma is writing the 
@@ -219,11 +218,11 @@ first postcards of the trip. Locals stop here making themselves comfortable with
 and olives. From a taste point of view it’s an odd combination, but we make a mental note that we must try this, 
 soon.
 
-v Our first real meal in Milan is in the Galleria. 
+v Our first real meal in Milan is in the Galleria.
 
 Still disoriented from the flight and the day’s events, we settle quickly on Biffi a restaurant with tables spilling out 
 into the Galleria. Deciding to move ourselves away from the rush and crush of curious tourists we take a seat inside 
-and settle in to watch the show. 
+and settle in to watch the show.
 
 After a delightful dinner of veal paillard and gnocchi in gorgonzola sauce, we stroll Galleria Vittorio Emanuele’s four 
 corridors window-shopping the great names of fashion. Italians call it "il salotto di Milano," Milan’s parlor. Based on 
@@ -257,7 +256,7 @@ I stepped back on to the narrow sidewalk and they brushed past me as if I wasn�
 
 Further down the narrow street an elderly couple were unsteadily approaching. She leaning on his arm. He leaning on 
 his cane. Coming from morning mass. Both seemed frail as they shuffled towards me. Both were impeccably dressed as 
-most elderly Milanese are. 
+most elderly Milanese are.
 
 I pressed myself against the stone wall of the building to let them pass.
 
@@ -272,22 +271,22 @@ b
 The colour of Campari…
 
 The name sits on a billboard on a background as distinctive as this bittersweet liquid’s colour. That’s all that is needed 
-for the Milanese. 
+for the Milanese.
 
 Gaspare Campari invented the drink some 140 years ago in a bar in the Galleria Vittorio Emanuele. Looking at its rosy 
-red tint I’m reminded of the sunrise that greeted us the morning we arrived in Milan. 
+red tint I’m reminded of the sunrise that greeted us the morning we arrived in Milan.
 
 Campari would be the official drink of our journey
 
 2
 Milan is Sunday morning quiet. Traffic is sparse. There are few people on the streets. The day is overcast but you know 
 the heat and humidity are only a short hour away. Reading our map we walk seeking Piazza della Scala as our first 
-destination. Our skills are still rudimentary and the Opera House eludes us. 
+destination. Our skills are still rudimentary and the Opera House eludes us.
 
 Instead we come across a small square with the customary statue in the centre. At first we thought we were looking at 
 Casa di Manzoni, the museum/home of Alessandro Manzoni who, according to The Rough Guide, wrote ‘The 
 Betrothed,’ the greatest Italian novel of the 19th century which means absolutely nothing to us. Moving closer we 
-notice a beggar on the steps of what turns out to be a small church. 
+notice a beggar on the steps of what turns out to be a small church.
 
 Opening the wonderful wooden doors we stepped inside to the liturgy of our first Italian Mass. Simple, serene, 
 tranquil. The words were like music. Because of the Italian we found ourselves being pulled back to the days when 
@@ -299,18 +298,17 @@ locked in serious conversation. What they were talking about was probably trivia
 Davenport, I would circle these tight gatherings hoping to be swallowed up in their circle of words that I might feel 
 grown up.
 
-
 Outside La Scala the scalpers are busy.
 
 And not just with the tourists. Locals too are looking for seats. La Boheme is on. Franco Zefferelli has staged it. Now, I 
 regret not having paid whatever price they were asking, just to be in the house. As we walked around La Scala we 
-heard the tenors and baritones warming up. That would have to be enough. 
+heard the tenors and baritones warming up. That would have to be enough.
 
 Later we saw the Milanese arriving for the performance. We mingled with them feeling as though we were part of the 
 audience about to enter this storied hall. Inside the foyer the ushers were taking tickets. They were the best-dressed 
 ushers I had ever seen…all in black tunic and breeches with white ruffled shirt collars showing and a gold medallion 
 on a thick chain. They stiffly guarded the doors. All we could do was catch a glimpse of the ornate foyer that led to 
-the grand hall. 
+the grand hall.
 
 There was no chance to go further.
 
@@ -339,26 +337,26 @@ and flows in front of the newsstands, snack bars and sacred souvenir shops. Peop
 many people pulling, pushing carrying, carting luggage eyes raised to the "Arriva/Partenza" boards that will tell them 
 where they are going and when, leading them to the Binario with their waiting train.
 
-Travelers know what they’re doing. Tourists don’t. 
+Travelers know what they’re doing. Tourists don’t.
 
 It is easy to spot the difference in a railway station. Seasoned travelers and the Milanese don’t have that mixed look of 
 puzzlement and pain on their faces. They have no trouble making their needs known. Up to the wicket. Out with their 
-money. Grazie and they’re on their way. Verify the ticket in the little yellow box. Done. 
+money. Grazie and they’re on their way. Verify the ticket in the little yellow box. Done.
 
 Right now we are not these people.
 
-The most significant journey is always a personal one. 
+The most significant journey is always a personal one.
 
 Travel has a way of forcing you to deal with discoveries about yourself. You must shake off the established patterns of 
-everyday life as you know it. The stresses of travel leave no room for emotional baggage. 
+everyday life as you know it. The stresses of travel leave no room for emotional baggage.
 
 On the road there is no place for undiscovered cracks in a relationship. A couple must be confident that their 
 connection is solid.
 
 No one is ever sure what lies ahead, regardless of what travel agents, travel books or the internet tell you. If your 
-relationship is a good one it will get stronger, deeper, richer more mutually supportive with each passing destination. 
+relationship is a good one it will get stronger, deeper, richer more mutually supportive with each passing destination.
 
-You are alone together. Travel gives couples time and opportunity to become what they thought they were. 
+You are alone together. Travel gives couples time and opportunity to become what they thought they were.
 
 t 
 The train ride to Venice was dream-like.
@@ -368,21 +366,21 @@ in time was being transported to another world and we had no apparent control of
 take just under three hours turned into four. Lunch became apples, rolls from breakfast and water.
 
 We passed through the lake district with misty mountains in the distance, Soave, Valpollicella wine country we had 
-only until now read about, in a serene state. 
+only until now read about, in a serene state.
 
-Our train stopped in Padova to let some locals off. The looked in as they walked passed our compartment. 
+Our train stopped in Padova to let some locals off. The looked in as they walked passed our compartment.
 
 "Touristi," they said with self-satisfied smugness.
 Welcome to Venice.
 
-A long, thin isthmus of road and railway track attaches the 118 islands of Venice to the mainland. 
+A long, thin isthmus of road and railway track attaches the 118 islands of Venice to the mainland.
 
 Around you is the Adriatic. In the distance the picture book antiquity of Venice begins to reveal itself. As you draw 
-closer and look over your shoulder you see a refinery on the other shore. There is no beauty in the contrast. 
+closer and look over your shoulder you see a refinery on the other shore. There is no beauty in the contrast.
 
 Are we tourists or travelers?
 
-It is not hard to tell. In our minds we are the former. To the people of the places we visit we are the latter. 
+It is not hard to tell. In our minds we are the former. To the people of the places we visit we are the latter.
 
 Standing in Santa Lucia Station trying to get a street map of Venice certainly brands you, instantly. Asking for 
 directions to your hotel confirms it further. If you are struggling with suitcases or backpack in the heat of the day, a 
@@ -397,7 +395,7 @@ Our hotel is just over the bridge and down a slim lane on the other side. There 
 pull your luggage up one side, then bounce your luggage down the other. Hard work on a hot day. Especially with 
 people watching you.
 
-Finding our hotel turned into something of a farce as well. 
+Finding our hotel turned into something of a farce as well.
 
 According to the directions I found on the Internet, the Hotel Capri was just across from the railway station down a 
 lane next to another hotel. That hotel was visible from the bridge. Asking for directions at the desk I was directed to 
@@ -406,7 +404,7 @@ attractive introduction to a three star Venetian hotel. The alley opened up to a
 Frustrated, tired, and hot I returned to the front desk, tried again, returned and tried once more.
 
 There it was. Not like a hotel at all but rather like all the other structures around me. All I had to do was walk a little 
-further and turn right. The look of panic left Norma’s face when I told her of my success. 
+further and turn right. The look of panic left Norma’s face when I told her of my success.
 
 It returned when she came face to face with the narrow lane.
 
@@ -422,7 +420,7 @@ and Rio of Venice.
 
 Hunger drove us to find an early dinner. Our lunch had been meager indeed.  A dinner of Carpaccio with slices of 
 fresh parmigiano sprinkled with olive oil, insalata, taglialini in a mushroom cream sauce and a bottle of Valpolicella is 
-enough to make us feel human again. Near the train station we find dessert, gelatti. 
+enough to make us feel human again. Near the train station we find dessert, gelatti.
 
 The day ends well.
 2
@@ -435,7 +433,7 @@ i become the journey.
 
 We woke this morning to the sound of thunder. 
 You can only imagine the sight of lightening over the Adriatic. We have to because we are shuttered to the world 
-outside. 
+outside.
 
 Rain in Venice. The sound of its falling comes to us from the street outside our window. Excited voices of children on 
 their way to school. Only footsteps were heard on the cobblestones. No cars. That is the strange and wonderful sound 
@@ -449,11 +447,11 @@ trees, dappled with sunlight from a robin egg blue sky, beckoning with benches a
 pasticeria, shops and trattoria. You know that this is your moment to sit, search your street map to find out where 
 you really are and indulge yourself with gelati.
 
-Wandering a narrow alley pressed with people always takes you to a postcard moment. 
+Wandering a narrow alley pressed with people always takes you to a postcard moment.
 
 One of these is the market just before the Rialto Bridge. Shopping the stalls we stop for fruit. Happily we discover a 
 fountain flowing with fresh water. Soaking my handkerchief we let the cool liquid refresh our faces. We wash our 
-fruit. We drink. Rejuvenated we stroll on. 
+fruit. We drink. Rejuvenated we stroll on.
 
 From not far away the cries of vendors lead us to the fish market. Our senses are assailed by sight, sound and smell. 
 Under canvass canopies, neatly stacked on ice are all manner of seafood. Eels are pealed, stripped of their skin and 
@@ -463,10 +461,9 @@ tourists are shopping for memories.
 
 In contrast to the every-day reality of the market are the shops on the Rialto Bridge. Blatantly obvious obnoxious 
 souvenirs  that must be an embarrassment to even the Venetians, shout at you. They are so cheaply overdone, in such 
-bad taste, that you would be embarrassed to take them home. 
+bad taste, that you would be embarrassed to take them home.
 
 They were probably made in China.
-
 
 
 
@@ -494,7 +491,7 @@ Harry actually showed up. He sat next to us talking to a wealthy British couple.
 couple. The gentleman used a throat microphone to carry on a conversation with his companion who looked every 
 inch the rich American socialite. Throat cancer? She spoke Italian. They talked of art galleries and exhibitions and who 
 brought their "only adequate" chef with them to Venice. He sounded mechanical, but, he ate well; tuna tartar and 
-grilled shrimp for lunch. 
+grilled shrimp for lunch.
 
 Harry knew them too.
 
@@ -520,7 +517,7 @@ Was it because of the weight of the crowds in the square?
 Actually, the tide was coming in off the Adriatic.
 
 It was creeping up through Piazza San Marco. You could see it seeping up through the stones of the square. Tourists 
-were walking around puddles. 
+were walking around puddles.
 
 As we stood in line to enter the Basilica we had to step up on to a makeshift bridge because waster was everywhere. It 
 found its way into the foyer of the Church. If you wanted to buy souvenirs you had to walk in it. There is something 
@@ -529,17 +526,17 @@ strange about the sight and sound of tourists sloshing around in a holy place.
 You would think that Saint Mark would petition heaven for some miracle to turn back the sea and save his church.
 All in good time I guess.
 
-We met the traveling Brady Bunch from Australia while having dinner at Al Ponte de Tolentini. 
+We met the traveling Brady Bunch from Australia while having dinner at Al Ponte de Tolentini.
 
 Her kids, his kids, seven kids and two adults, the waiter had to put four tables together. After landing in London they 
-drove a rented van from France to Italy in their escape from the Olympics. 
+drove a rented van from France to Italy in their escape from the Olympics.
 
 This must be costing them a small fortune.
 
 Water.
 
 Walking at night its dampness finds you. The only lights, high on the corners of old buildings act as beacons as you 
-feel your way across the wet, glistening cobblestones. That light is diffused by the dampness. 
+feel your way across the wet, glistening cobblestones. That light is diffused by the dampness.
 
 Street signs are too high in the dark to read. Besides they are either faded or meaningless. In the maze that meets you 
 at every turn you hesitate before deciding on a direction. Listening to the echo of footsteps behind you, your only 
@@ -600,19 +597,19 @@ Thunder.
 Rain falls heavy on the cobblestones
 Washing them clean. 
 b 
-Every afternoon the tides assault Venice. 
+Every afternoon the tides assault Venice.
 
 They role up and in from the sea surging into the Grand Canal and its tributaries. Around 4:00 it begins. By 4:30 it has 
-conquered stone banks and is slipping up on to the walkways lapping at the feet of people walking by. 
+conquered stone banks and is slipping up on to the walkways lapping at the feet of people walking by.
 
 As the Vaporetti, Draghetti, and Motoscafi go about their business, their wake takes sides with the tide and gives it 
-added strength. 
+added strength.
 
 The victory, though, is short-lived as gravity and the moon call the tide back out to sea. Along the Grand Canal its 
 banks and the palazzi are spared any prolonged attack.
 They are draining a Rio just off the Grand Canal. With all the water gone you are surprised at how shallow it really is. 
 Workmen are rebuilding the embankments that hold back the tide. Pumps go all night just to keep up with the 
-constant ebb and flow.  
+constant ebb and flow.
 
 Still, there are too many tomorrows left in their time and time and tide continue to destroy the foundations of their 
 existence. 
@@ -625,7 +622,7 @@ mourners are colours on a passing pallet.
 
 Go back in time to an island where craftsmen lived to create delicate beauty in fiery furnaces. The master glass 
 blowers of Murano are dying out they say. Time was their patron would kill them if they tried to abandon their craft 
-and the island. The young won’t apprentice. Too hot, no money in it they say. 
+and the island. The young won’t apprentice. Too hot, no money in it they say.
 
 Still, there are the tourists. The men of Murano meet them as Vaporetti empty them on to the island. They are 
 tempted to come to the "special rooms" where the works of the last few masters can be seen and had, packaging, 
@@ -644,15 +641,15 @@ Every now and then a work or originality stands out from the sameness. But, you 
 then walk on.
 
 The rest of the island, though, is peaceful, quiet. So far out to sea that the noise of boat traffic is swallowed up in the 
-vastness of the surrounding space. Murano is exposed to the Adriatic more than Venice is. 
+vastness of the surrounding space. Murano is exposed to the Adriatic more than Venice is.
 
-Perhaps that is why is appears rugged, older, less lived in, simpler. 
+Perhaps that is why is appears rugged, older, less lived in, simpler.
 
 Murano is of a world but a world apart.
 
 Traffic on the Grand Canal is light this morning.
 We are bound for Salute the Vaporetto boarding dock across from San Marco. We are going to walk quayside along 
-Fondamenta Zattere. 
+Fondamenta Zattere.
 
 Looking across Canale delle Guidecca to the island of Guidecca the light of mid-morning Venice plays out before you. 
 There is a pointillism that blends into paintings that constantly change with the movement of sun, sky, cloud, mist 
@@ -670,21 +667,20 @@ stay in Venice, this is where I would live.
 
 On this our last night in Venice we find ourselves in a place well away from tourists. Shopkeepers are locking up for 
 the night. Taking an outside table at a trattoria we order dinner and settle in to watch Venetians hurrying by on their 
-way home. 
+way home.
 
-Their day is ending. Our stay is ending. 
-
+Their day is ending. Our stay is ending.
 
 t 
 Leaving Venice on a train of confusion…
 Traveling the trains teaches lessons. We hold a ticket to Florence, First Class. This matters little to the bored, 
-impatient person behind the glass who says the same thing to everyone. 
+impatient person behind the glass who says the same thing to everyone.
 
-"Full." 
+"Full."
 
-All of today’s trains to Florence are full. You can get on anyway. You have a ticket. You can stand. 
+All of today’s trains to Florence are full. You can get on anyway. You have a ticket. You can stand.
 
-"Go to Bologna," is the alternative he offers. 
+"Go to Bologna," is the alternative he offers.
 
 The lesson here is book your next departure on arrival. Learn time management so that you will arrive at the station 
 hours early with time enough to deal with the little surprises that inevitably await. Learn to improvise on the surprises 
@@ -692,12 +688,12 @@ and find alternate routes to your destination. Finally learn to be firm and refu
 Norma found out what "go to Bologna" meant from a woman ticket agent.
 
 It meant that we had 20 minutes to catch the Bologna train then another 10 minutes to transfer there to another train 
-for Florence. 
+for Florence.
 
 Obviously Eurorail passes and Eurostar tickets don’t impress anyone.
 
 t 
-Full trains. Change trains. Late trains. 
+Full trains. Change trains. Late trains.
 
 Travelers talking to travelers. Brothers and sisters of circumstance. They are feeling the inconvenience you’re feeling. 
 Train conversations last only as long as your next stop. In that time they are full of stories, personal revelations, travel 
@@ -708,7 +704,7 @@ Out of these conversations comes a truth that few travelers admit to. They belie
 destination at their own pace. Yet while the traveler is free to go where he chooses, he goes at a timetable set for him 
 by civil servants who do not travel.
 Every time we enter a station this realization becomes more clear. Schedules conspire to control time and movement. 
-Schedules tell us when we can go and how far. 
+Schedules tell us when we can go and how far.
 
 We read them and obey.
 
@@ -719,10 +715,10 @@ search for the train to Florence. Descending into the Sottopassagio we spot the 
 spare we sprint like super-humans, suitcases aloft, body checking other tourists to clear a path up wet stairs to the 
 waiting train.
  
-Victory! 
+Victory!
 
 Our prize is the train itself, a first class Eurostar Express in from Zurich. Recling seats. stereo, dining car, electronic 
-window shades and clean washrooms. 
+window shades and clean washrooms.
 
 Best of all we arrive in Florence with our nerves intact, long before the too-full-train-we-were-supposed-to-take does.
 
@@ -748,11 +744,11 @@ English. Somehow they know that the translation only means delayed or late train
 connections.
 
 Trains from Milan and Venice are hours late. Breathing easier we count ourselves lucky as we enter the Railway 
-Information Office. 
+Information Office.
 
 The protocol is simple; take a number and wait. There are those who don’t understand the routine. They are the ones 
 who walk in and seeing no line-up step up to the counter and begin asking questions, only to be met with a indignant 
-stare and immediately sent away. 
+stare and immediately sent away.
 
 Their reactions to this apparent rudeness are mixed. Resignation that they are strangers interacting with a strange 
 system either sends them to a bench to wait or storming out of the office cursing Italy, its rail system and the bad 
@@ -778,7 +774,7 @@ the station.
 Later, over Campari and soda in the garden of our hotel, we justify our indulgence. In a day full of challenges we had 
 met and overcome all our trials. The cab ride was our reward.
 
-Fear is a sometime companion for travelers. 
+Fear is a sometime companion for travelers.
 
 Walking in a strange city is an adrenaline rush. The crowds, the traffic, the sights and sound, the streets that lead to 
 nowhere, all co operate to confuse you. So it was when we turned on to a wide dark road littered with the refuse of 
@@ -794,19 +790,19 @@ walls. That alone should have given us an indication of what we had just seen.
 Next to us two American women were planning the rest of their evening’s activities. Striking up a conversation over 
 dinner, they told us of the great shopping in the area and how they had an even worse time getting out of Venice. 
 They highly recommended that we return tomorrow morning to the market for unbelievable bargains on all kinds of 
-leather goods. 
+leather goods.
 
-"Where," we innocently asked, " is the market?" 
+"Where," we innocently asked, " is the market?"
 
 They looked at each other incredulously and then at us, "Just around the corner."
 
 Putting trepidation aside we went, after dinner, back to that street of shadows. The carts were gone. In their place 
 police cars, street sweepers and water trucks moved slowly ahead leaving behind them a wide boulevard glistening in 
-the lamplight. This was the market, vacant and clean, ready for the next day. 
+the lamplight. This was the market, vacant and clean, ready for the next day.
 
 There was nothing to be afraid of after all. They were just getting ready for the tourists.
 
-Gypsies sit on the steps of buildings cradling their children. 
+Gypsies sit on the steps of buildings cradling their children.
 
 These are sad looking women wrapped in clothes that look like they’ve never been washed. Their eyes are wild, their 
 hair stringy, greasy and they hold out dirty hands begging for money. Most of them are young. The children they hold 
@@ -816,15 +812,15 @@ a few coins.
 
 There is always a piece of cardboard with an Italian\English plea scrawled on it. A small box or basket holds a few 
 coins. And a bottle of Acqua Minerale rests near her hand. The ones that aren’t sitting are working the line-ups around 
-the Duomo. Tourists hold their purses tighter when the gypsies are near. 
+the Duomo. Tourists hold their purses tighter when the gypsies are near.
 
 b 
 Florence’s green, ruby and white marble layered Duomo, appears heavy-handed on the outside and plain on the inside. 
-The trappings and artistry of the smallest of Venice or Milan’s Duomo are missing. 
+The trappings and artistry of the smallest of Venice or Milan’s Duomo are missing.
 
 It is famous for the mystery of its Dome.
 Actually it is two domes, an interior wall and an exterior one. Between them is a slim passageway that takes you to the 
-top. 
+top.
 
 463 steps, some original stone, some spiraling iron that twist you around and around. At times you are wedged 
 between walls staring up at the interior curvature of the cathedral ceiling. You put out a hand to steady yourself as 
@@ -850,7 +846,7 @@ b
 Admission to the Uffizzi Gallery is free on Sunday. This is a small gift for us because we get to spend our twenty-third 
 wedding anniversary
 standing in line for three hours. Since the Uffizzi is "U" shaped, the line extends from the entrance around the three 
-porticos and out on to the square back to the counterfeit David 
+porticos and out on to the square back to the counterfeit David
 
 A saxophone quintet entertains the crowd. Some stand and wait while others wander the square, visit the gift shops or 
 explore museums and sculptures at the entrance to the Piazza Vecchio. The line moves slowly. No need to be afraid of 
@@ -864,7 +860,7 @@ friendly.
 On the other side of the Arno a religious procession slips slowly from bridge to bridge. You can see the statues and 
 banners held high. The band plays badly. This is something I haven’t seen since childhood when I walked in procession 
 along Dufferin Street to Santa Maria Degli Angeli with my cousin and grandmother. Sally carried a basket of rose 
-petals. I carefully carried a candle, afraid the dripping wax would burn my hands. 
+petals. I carefully carried a candle, afraid the dripping wax would burn my hands.
 
 After the Uffizzi we make our way to the Galleria dell’Accademia to find the real David. Since it is Sunday there is no 
 admission fee, just another line. In the heat of the afternoon we wonder if it is all worth it. So much of what we have 
@@ -910,34 +906,34 @@ Each road leads to a picture-book view. Fiesole puts Florence at its feet.
 The Etruscans were the first citizens of Fiesole. The Romans took over from them and later the Florentines claimed 
 what was left. All left behind evidence of their existence. Etruscan walls, a Roman amphitheater and baths, diggings 
 showing foundations of an ancient civilization, artifacts of daily life from a Bronze Age Settlement left behind 
-museum glass. Each broken bit of pottery quietly affirms that this hilltop village predates Florence by centuries. 
+museum glass. Each broken bit of pottery quietly affirms that this hilltop village predates Florence by centuries.
 
 We are happy to be here. The air is cleaner. Every now and then a wayward breeze finds its way to our faces. Sitting 
 on a low wall at the side of the road we welcome the cooling wind. High above the Mugnone and Arno Valleys 
 Florence feels so far away.  
 As we walk we hide in the shade from the garden walls that surround the homes. Piano music floats on the air. 
-Someone is practicing, someone accomplished. 
+Someone is practicing, someone accomplished.
 
 Via Vecchio Fiesolana leads you down San Domenico and then to Florence.
 
 The sun reflects heat off the crumpled asphalt. Alone except for a passing jogger, a solo scooter and the odd car we 
 are lost in the solitude of a Tuscan summer’s afternoon. The road is steep, carved into the hillside so that the valley is 
 on one side and high walls hiding the rustic Villa Medici and others with extensive gardens separating themselves 
-from the tourists and traffic below is on the other. 
+from the tourists and traffic below is on the other.
 
 Looking up we get glimpses of these gardens. Behind these walls are homes with history. We can only strain for views 
 through garden gates and greenery that has been grown for privacy. Bird song and the sound of our footsteps are all 
 that break the silence. This is what we came for.
 
 t
-Leaving in the morning we see a Florence not seen in post cards or picture books. 
+Leaving in the morning we see a Florence not seen in post cards or picture books.
 
 We clatter through the back tracks of a station cluttered with the wrecks and waste of construction.  Abandoned, out 
 of service railway cars spay painted back to life with colours they never saw when they were in service, flat cars 
-carrying debris from buildings being restored and renewed. A blight on the country side. 
+carrying debris from buildings being restored and renewed. A blight on the country side.
 
 There is no art to the greater glory of God here. Rolling into Tuscany, tents and shanty towns spread out on either 
-side, squalor and poverty among the ancient riches. 
+side, squalor and poverty among the ancient riches.
 
 Why is it that the approach to the storied cities of Italy is always an ugly and unexpectedly brutish experience? Why is 
 it that railways take you through the debris and decay of a city to a terminal of confusion? What a way to approach 
@@ -948,7 +944,7 @@ The train to Poggibonsi wasn’t full.
 
 Then, who travels to a place with a name like Poggibonsi? A few students, locals going to work in the next town and 
 tourists heading to Sienna or Florence. Besides, it is an unattractive industrial town with little to attract or explore 
-compared to others in Tuscany. And, there we were, sitting in second class on a local trail with first class tickets. 
+compared to others in Tuscany. And, there we were, sitting in second class on a local trail with first class tickets.
 
 The railway schedules, even the sign at Poggibonsi station says  "POGGIBONSI – S.G." That alone will tell you that 
 you’ve come the right place. No matter, if you’re not driving or taking a bus, this is the only way to get to San 
@@ -961,11 +957,11 @@ feet. After throwing our bags out and over it, we had to drag them over gravel t
 People are watching us. Travelers indeed.
 
 v
-We are given a choice. 
+We are given a choice.
 
 To get to San Gimingano from the station we could either seek out the bus depot or catch the local out front. Since 
 we had no idea where the actual bus station was we decided against that. Besides, the directions, as usual, were 
-unclear. After an espresso at the bar we settled ourselves and our bags out front and waited. 
+unclear. After an espresso at the bar we settled ourselves and our bags out front and waited.
 
 Soon a small yellow bus arrived. Piling on our luggage we barricaded ourselves in the seats with our bags. As the 
 locals boarded, we realized we were the only tourists there. We must have looked quite amusing to them.
@@ -982,11 +978,11 @@ Porta San Giovanni
 
 From this gate a slim cobblestone street leads to the Piazza Della Cisterna and our hotel. Already this medieval town 
 was teeming with tourists. Cars and buses had arrived earlier. Apparently San Gimignano is a day trip for a lot of 
-people. 
+people.
 
 Years ago the townspeople realized what they had in their fortified village and decided to turn their towered town 
 into something more than just a beautiful place to live. Judging from the number of sightseers and shoppers they 
-have succeeded. Norma window-shopped as we pulled ourselves and our luggage towards Hotel La Cisterna. 
+have succeeded. Norma window-shopped as we pulled ourselves and our luggage towards Hotel La Cisterna.
 
 Not long into town we couldn’t help but notice them. Fourteen of the original seventy-six towers remain. They 
 dominate your sightline. Built as a sign of wealth and position their owners used them as towerhouses and fortresses. 
@@ -998,11 +994,10 @@ the piazza to sit on its steps to enjoy their gelatti, write post cards, take pi
 
 
 
-
 Snapshots…of San Gimignano develop in your mind…
 
 Boars are everywhere in San Gimignano. Shops feature sausage, salami, prociuto made from Boars. Mounted Boar’s 
-heads, stuffed Boars hang and stand in shop windows and doorways menacing shoppers. 
+heads, stuffed Boars hang and stand in shop windows and doorways menacing shoppers.
 
 Mushrooms, large and varied, sliced and whole, all artfully on display with hand-printed signs that say "non toccata." 
 Balsamic vinegar, olive oils, wines, pizza, focaccia, dolci, panini, antipasti to take with you as you wander the streets.
@@ -1029,7 +1024,7 @@ Dinner al fresco on a terrace high above the valley…home made ravioli, osso bu
 Chianti. At 7:15 the bells of the seven towers of San Gimignano call out to one another in a chorus of celebration of a 
 time that once was. Dinner music.
 
- From the top of a bell tower we stand looking out over the town and down into the Elsa valley. We can see the 
+From the top of a bell tower we stand looking out over the town and down into the Elsa valley. We can see the 
 streets and squares. The roofs of San Gimignano and the roofs of Florence are similar in shape and colour. It is the 
 roof tiles. Birds dart in and out of the walls. The breeze dries the perspiration on our bodies. Big bronze bells sit in 
 their cradles waiting. We can look to the tops of other towers from here.  On a tower to our right are a white plastic 
@@ -1041,11 +1036,11 @@ families. A bust of his head sits in an alcove at the front. He looks as if he i
 
 v
 In a sliver of a silversmiths shop, Risvegli D’Arte, we see a bracelet, beautiful in its simplicity. It would be a perfect gift 
-for Jessica. 
+for Jessica.
 
 Inside the artist is working on a silver bowl. It is full of tar to hold its shape while he follows lines laid down on the 
 outside, engraving designs that will eventually make it a unique piece. There is another bracelet, a thin strip of silver 
-with indented rounded clasps. I put it on. 
+with indented rounded clasps. I put it on.
 
 The artist thanks me and shakes my hand. His is black with tar. Mine is clean.  There is a connection, though, since his 
 hands made what I now wear. I have not yet taken it off.
@@ -1065,14 +1060,14 @@ wished them a safe journey.
 No doubt we would never see them again. We don’t even know their names.
 
 As we left San Gimignano the last thing we encountered were street vendors setting up their stalls of cheap goods in 
-the Piazza Cisterna. Obviously Thursday was market day. 
+the Piazza Cisterna. Obviously Thursday was market day.
 
 It was a good day to leave.
 
 Ahead of us was a bus ride back to Poggibonsi and then the train to Sienna. But we had been this way before. And this 
 time the walk to the bus stop was all downhill.
 
-In Poggibonsi we were treated to three acts of courtesy. 
+In Poggibonsi we were treated to three acts of courtesy.
 
 oSeeing that our bags were so big and heavy the bus driver apologized that he couldn’t take us directly to the train 
 station.
@@ -1081,19 +1076,19 @@ oAt the station a young student helped Norma up the steps with her bags.
 
 oWhen the train arrived a woman took one of our bags on board for us.
 
-We were surprised and pleased because so far unsolicited acts of kindness had been rare. 
+We were surprised and pleased because so far unsolicited acts of kindness had been rare.
 
 We arrive early in Sienna. After San Gimignano the first thing that strikes us is the noise. Piccolo Hotel Oliveta is a 
 converted farm house located outside the old city. The hotel people are pleasant and accommodating even though 
 our room isn’t ready yet.
 
 This could have been a repeat of our situation in Milan. But, we are seasoned travelers now. After a coffee at the hotel 
-we walk into Sienna for a cursory look around. 
+we walk into Sienna for a cursory look around.
 
 Passing under the old gates of the medieval walls we began noticing flags and banners hanging from buildings and 
 decorating store windows. They all had an heraldic animal motif. Every few blocks they would change. Sienna still 
 keeps to the old custom of the Contrade, the ancient division of the city into wards, each with its own colours. Today 
-there are seventeen and the long-standing rivalry is still played out in the Palio. 
+there are seventeen and the long-standing rivalry is still played out in the Palio.
 
 This is a race that is run in the Campo. When we finally get there we can only imagine this vast space covered in sand 
 with mattresses to protect the horses and the crowd. All this fuss for three short laps. But the prize is pride and a 
@@ -1117,7 +1112,7 @@ After a wonderful dinner we walk the narrow sidewalks in the dark, dodging traff
 For us, Sienna becomes a day-trip. 
 We sat in the shadow of the Torre del Mangia and watched people gradually fill the shell-shaped Campo. In no mood 
 for galleries, churches or museums at that moment, we climbed stone steps to the streets behind the square idly 
-passing time window-shopping. 
+passing time window-shopping.
 
 Seated on a long stone bench against a stone wall opposite the Duomo, we eat our lunch of fruit we bought from a 
 vendor. Following the bands of black and white marble up the façade of the cathedral we admire the mosaics in the 
@@ -1137,9 +1132,9 @@ Behind another alter are artifacts and paintings stacked and strewn about as you
 further use for in an attic. The value of the art in of all these churches seem to be lost on the Italians. Not on the 
 tourists who come and pay to admire. But then, it has always been this way for the Italians. What is all the fuss about?
 
-For unknown reasons, we found Sienna boring. 
+For unknown reasons, we found Sienna boring.
 
-Returning to our hotel we decided to venture into Sienna proper, to a supermarket we had seen the night before. 
+Returning to our hotel we decided to venture into Sienna proper, to a supermarket we had seen the night before.
 
 For 17,000 lire, we bought bread, antipasto, cheeses, mortadella and salami. Back at the hotel, on their terrace over-
 looking the valley we had our picnic. This is an easy afternoon in Sienna. We are resting, catching our breath before 
@@ -1152,7 +1147,7 @@ What do tour groups do when it rains? Do tour guides, who have done this too man
 getting them wet?
 
 It was raining when we set out for the railway station in Sienna. 
-This rain followed us all the way to Orvieto. 
+This rain followed us all the way to Orvieto.
 
 To get to Orvieto we had to change trains in Chuisi. Now, just when you think you have these schedules finally 
 figured out, they force you into a completely different mindset than you already have. Norma realized there was no 
@@ -1168,7 +1163,7 @@ roads were nothing to him. To him the bus was a Ferrari. He had obviously done t
 We rode through the back country of Tuscany into Umbria. 
 The fields had already been ploughed. They rested now, slabs of brown and terra cotta earth turned up to receive the 
 rain. Farmhouses and villas sat alone on distant hills. A few tall cypress trees stood with them. Grey skies and stark 
-landscapes made this a dark journey. 
+landscapes made this a dark journey.
 
 Quietly we stared out of the window. The restorative beauty of the Tuscan landscape comes upon you with a 
 gentleness that reaches deep into your soul. It brings you a peace long forgotten and a tranquility rarely felt. You are, 
@@ -1193,7 +1188,7 @@ garden I saw in the Italian neighbourhoods I grew up in always looked the same. 
 was little difference in style, content or organization.
 
 This morning, from the train, in San Gimignano from the bus, in Sienna from my hotel window, I saw those same back 
-gardens and I was back with my father and his brothers and their gardens. 
+gardens and I was back with my father and his brothers and their gardens.
 
 Is it something that is born into those who live close to and from the land? Is it what you must do, in your simple 
 way, to provide for your family? If your are from the country in Italy, if you are not of class, nobility or privilege, you 
@@ -1209,35 +1204,35 @@ we could see there were no seats available. Past experiences told us this was bo
 to move from car to car with our 
 cumbersome luggage we realized that we could maim a few passengers along the way. Reason made us stop when we 
 saw piles of luggage in a passage-way between cars. Obviously other travelers were in the same situation. We added 
-out bags to the pile and sat on them to wait for our stop. 
+out bags to the pile and sat on them to wait for our stop.
 
 An older couple sat with us. Throughout their entire trip they had never made reservations ahead of time, depending 
 on Tourist Offices to find them accommodations. Older and braver than we were, they were stopping in Orvieto for 
 four days and no hotel. Our travel tales were trivial compared to theirs. In Florence we met with another older couple 
-in the Information Office. They too had traveled all over Italy gambling on Tourist Offices to find them rooms. 
+in the Information Office. They too had traveled all over Italy gambling on Tourist Offices to find them rooms.
 
 Italian Railway Conductors are not always happy in their work. They are especially not happy to see you when you 
 clutter up their route from car to car. Nonetheless we stood fast and counted down the time to Orvieto. Since we 
 could not read the station names from our location it was all we had to rely on.
 
 At Orvieto Scalo we stood in a downpour waiting for a cab. When you’re the only game in town you apparently come 
-and go at your own pace. Since there were only three taxis in the entire town the competition would be fierce. 
+and go at your own pace. Since there were only three taxis in the entire town the competition would be fierce.
 
 A large circular fountain sprouted water as most Italian fountains do. With the rain joining in, it was overflowing on 
 to the square. Across from us a line of people stood in the rain waiting for the funicular railway to take them up to 
 Orvieto. Above us on a tufa outcropping La Rupe, the old city appeared through the mist, rain and fog as if in some 
-black and white Hollywood B horror movie, fortress walls rising high above the clouds commanding the valley below. 
+black and white Hollywood B horror movie, fortress walls rising high above the clouds commanding the valley below.
 
 We were wet. We were waiting. We were entering the final days of our time in Italy. A white car pulled into the 
 station. Realizing what it was, we out-maneuvered an American by placing our bags between him and the taxi. This 
 was not a time for niceties.
 
- "La Badia," I said. Our driver smiled. He must have thought us wealthy for we were heading for a converted 8th 
+"La Badia," I said. Our driver smiled. He must have thought us wealthy for we were heading for a converted 8th 
 century monastery that is now a favourite of rich Americans. It is said to be the oldest hotel in Italy with a restaurant 
 famous for traditional Umbrian dishes. Popes, apparently use to vacation here. Neither rich nor of holy orders we 
-were nonetheless welcomed warmly. Our money is as good as anyone’s. 
+were nonetheless welcomed warmly. Our money is as good as anyone’s.
 
-Our first sight of La Badia is its tower. 
+Our first sight of La Badia is its tower.
 
 In the 12th century the Countess Matilde di Canossa ordered that a twelve sided tower be built on the site. Unique in 
 the world then and now it stands as a monument to the lady’s vanity. Frescos embellish the walls of the sacristy in the 
@@ -1260,12 +1255,12 @@ Rain falls still.
 Wind rolls the gray down the green and the spires of the Duomo appear.
 Orvieto has shrugged off the fog so that she might rule the valley again.
 
-We know we must go to this distant place that is framed in our window. 
+We know we must go to this distant place that is framed in our window.
 
 Looking at it is no longer satisfying. At the front desk they suggest that calling a cab in this weather is a gamble at 
-best. 
+best.
 
-"There are only three in town." 
+"There are only three in town."
 
 "Yes?"
 
@@ -1285,7 +1280,7 @@ On the drive up to the town centre we are convinced that he and our bus driver f
 intimacy with the twists and turns of the wet narrow roads is obviously meant to inspire admiration in us, but we are 
 busy sightseeing. Now we are high above the Umbrian countryside passing through the sheltering town walls. The 
 gothic Duomo appears out of nowhere. There are no buses, no cars and few people in the Piazza del Duomo. The wet 
-blackness of the square and the white marble of the church provide perfect contrast on this monochromatic day. 
+blackness of the square and the white marble of the church provide perfect contrast on this monochromatic day.
 
 Since it is Sunday, we go to mass.
 Inside the church the tourists take pictures as the priest prepares to preach. There seems to be a tacit acceptance by 
@@ -1309,7 +1304,7 @@ position at the cab stand and settle in for the long wait.
 
 After a half hour in the rain we decide to walk. Our decision proves to be a good thing as clouds begin to clear. 
 Sunshine and blue skies are smiling down on us as we set out on our bold adventure in what we think is the right 
-direction. 
+direction.
 
 As we mine our memories for landmarks that will lead us back we shed coats, sweaters and umbrellas. We are 
 overdressed for the sudden warmth. Fortunately we are walking through shaded tree-lined streets. When we leave the 
@@ -1324,7 +1319,7 @@ desk of the hotel drove by. She stopped ahead of us and reversed back. Amazed at
 offered us a ride. We thanked her and continued on our way pleased with our accomplishment and the way the day 
 had turned from gray to golden.
 
-Sitting on a bench in front of La Badia’s tower we finally see Orvieto under blue skies and sunshine. 
+Sitting on a bench in front of La Badia’s tower we finally see Orvieto under blue skies and sunshine.
 
 The sandy colour of the cliff face is receptive to sun. From where we are we can see caves or carvings for the first 
 time. Above them the walls ring the town as if they’re trying to hold everything together. Sunset brings shadows but 
@@ -1343,7 +1338,7 @@ eventually back to England where he hoped to find work. They shared a sandwich. 
 
 He helped us with our luggage when we boarded the crowded train. Perhaps I hadn’t realized how tired I was because 
 my strength left me when I tried to hoist the bags overhead. Our young friend was there to grab the suitcase before it 
-landed on an unsuspecting passenger. He smiled when I thanked him. I was happy to have him there. 
+landed on an unsuspecting passenger. He smiled when I thanked him. I was happy to have him there.
 
 Two people on personal journeys, young with nothing but time. Norma and I with most of our life behind us trying 
 to make up for lost time. The ultimate destination for these two young souls was one that we had already passed 
@@ -1376,9 +1371,9 @@ The traffic, the tourists, the Romans; they are a three ring circus. Each perfor
 other. The only question is, "who are the clowns?"
 
 You would not expect the cheapest internet\e-mail rates in Italy to be found in Rome. You would not expect to find 
-them in a Laundromat-Splashnet Lavanderia Self Service & Internet Café. 
+them in a Laundromat-Splashnet Lavanderia Self Service & Internet Café.
 
- ‘Trattoria Bruno’ is just down the street from our hotel and next to the internet\laundromat. So, catching up on e-
+‘Trattoria Bruno’ is just down the street from our hotel and next to the internet\laundromat. So, catching up on e-
 mails and having lunch were quite convenient. The lunch crowd was mostly locals, always a good sign. Lunch itself 
 was inexpensive; a zitti lasagna, risotto, sausage and peppers with fresh baked rolls and house wine, excellent.
 
@@ -1391,7 +1386,7 @@ was all that. We were lost.
 What we do find are archeological sites, all over Rome. They are digging under today’s city to find yesterday’s. 
 Columns, pillars, walls, arches, steps, stones, statues, shapes of what were homes are littered about the city in roped-
 off areas. Turn a corner and you are in ancient Rome. The ‘Romani’ seem oblivious to it all. They don’t seem to care. 
-Antiquity has become everyday. 
+Antiquity has become everyday.
 
 A downpour interrupts our exploration. Out of nowhere umbrella peddlers in see-through plastic ponchos appear. 
 One after another they accost you as you stand under a store-front hiding from the rain. They take your refusal 
@@ -1409,34 +1404,34 @@ a nap we determine that tomorrow we will attempt to find the Forum.
 Having been in Italy almost three weeks now, it is interesting to watch newly arriving tourists exiting the Termini, 
 dragging their bags, clutching their maps, leafing through their guide books, all carrying the same travel-induced, 
 confused "where-the-hell-do-I go-from-here" look on their faces. We, on the other hand, have become clever at 
-planning our itinerary the night before. 
+planning our itinerary the night before.
 
 This morning we are on the streets of Rome following signs that point us to the Colosseum. Early on we stop to 
 admire a church with a block-wide staircase that leads up to nowhere. Confused that there doesn’t seem to be an 
 entrance we realize that we are standing, staring at the rear façade of this imposing twin-domed basilica. Walking 
 around brings us into the midst of many pilgrims gathered at the equally imposing front entrance to Santa Maria 
-Maggiore. 
+Maggiore.
 
-Curiosity pulls us inside. 
+Curiosity pulls us inside.
 
 Jubilee 2000 has attracted thousands of Catholics to Italy and right now most of them are here in this cavernous yet 
 beautiful appointed church. Masses are being said in side chapels. Tour groups are clustered around altars and 
 paintings, craning up at the vaulted gold-guilded ceiling. A line of priests parade toward a sacristy where gray robed 
 brothers guard the doors against the faithful. Inside we see them don their robes of office; white for the priests, black 
-for the bishops and red for the Cardinals. 
+for the bishops and red for the Cardinals.
 
 Pomp and ceremony is subtle, but respect and reverence is everywhere as the monks lead the procession to mass. Since 
-the service is being said by a Cardinal, we are there as part of the congregation. 
+the service is being said by a Cardinal, we are there as part of the congregation.
 
 Leaving Santa Maria Maggiore we resume our search for the Colosseum. The annoying sound of an ambulance 
 approaches and passes. We have heard and seen many since coming to Italy. Unfortunately, today, a woman is lying 
 on the road, paramedics kneeling around her. As we hurry by we silently remind ourselves to look both ways when 
-crossing. 
+crossing.
 
 Turning down a high walled street we catch a momentary view of the Colesseum. At first sight you wonder how this 
 historic amphitheater endured for all these years. Considering the centuries it has survived it is in remarkably good 
 shape for its age. Begun around 72 AD by Emperor Vespasian it is now a shell of its former shelf. Stone was pillaged 
-from its walls to build some of the grander palaces of Rome, including the Vatican. 
+from its walls to build some of the grander palaces of Rome, including the Vatican.
 
 The floor is gone. You can look down into the belly of this once violent pleasure-bowl and see the cells, cages and 
 remnants of the lifts where animals and men waited to be hoisted into the sunlight and the fight for their lives. Now 
@@ -1458,7 +1453,7 @@ with them.
 
 There is a McDonalds in Piazza della Repubblica. We can’t resist having some fries with mayonnaise while watching 
 Roman drivers challenge each other on the round-about that circles Fountain della Naide with its voluptuous nude 
-nymphs. 
+nymphs.
 
 Breakfast at the Hotel Venezia was the best in Italy. Always hearty, you had your choice of hard boiled eggs, toast, 
 pastry of all kinds, mysterious local fruit, muesili, yogurt, liver pate, boar pate and waiters that always appeared 
@@ -1471,7 +1466,7 @@ could do) and were planning on taking the Metro to Saint Peter’s Square. We me
 destination today, but we were just going to grab the #64 bus.
  
 We all wondered what the crowds would be like what with all the pilgrims in Rome. Our American friends weren’t too 
-concerned…they had tickets. 
+concerned…they had tickets.
 
 Norma and I made our way to Piazza dei Cinquecento part of which resembled an permanent bus traffic jam. It only 
 took a couple of visits to information kiosks to locate the stop we needed. Deciding against the express we climbed 
@@ -1479,7 +1474,7 @@ aboard the local bus and settled in for a slow, street tour of Rome.
 
 The end of the line for us was just the other side of the Tiber at the foot of another of those high-walled streets. They 
 don’t let much traffic close to Saint Peter’s for obvious reasons. Finding the square was no problem. We just followed 
-the crowds. 
+the crowds.
 
 You are not prepared for "porta-potties" in Saint Peter’s Square. Nor are you expecting turnstiles and armed guards. As 
 you file past both you are immediately overwhelmed by the expanse of the square, the gathering crowds and two 
@@ -1495,11 +1490,11 @@ A constant parade of clergy of all ranks came before him and presented the best 
 crowd applause and cheers would be heard, colourful banners and hankies would wave locating the group being 
 represented. Then he would address them in their own language. Although he was visibly shaking, he never wavered in 
 his commitment to make everyone feel as though he was speaking directly to them. There were times when he would 
-have to rest his hand in his lap to steady the paper he was reading from. 
+have to rest his hand in his lap to steady the paper he was reading from.
 
 Priests about to be ordained and their families received his blessing. At the end a parade of brides and grooms in full 
 wedding dress filed past him to receive his blessing. Those on the dais then gathered around him for photograph after 
-photograph. This went on for three hours. Then it was over. 
+photograph. This went on for three hours. Then it was over.
 
 A large black Mercedes convertible appeared out of nowhere to rescue the Pope. It then drove down the steps and 
 through the crowds. In the back he stood and waved. Driving past a group of faithful in wheelchairs it paused briefly 
@@ -1507,21 +1502,21 @@ to allow him to acknowledge their cheers and then the Mercedes was gone as quick
 
 Immediately after his disappearance the crowds transformed into orderly lines. Taking our place among them we let 
 ourselves be led to the Vatican. While shuffling forward we thought about the Americans who had paid for seats to 
-this audience and wondered if their view had been any better than ours. 
+this audience and wondered if their view had been any better than ours.
 
 You begin to wonder if the Vatican can accommodate all the people flowing through its doors. Crowd control here is 
-reminiscent of Disney Land only the venue is slightly more significant. 
+reminiscent of Disney Land only the venue is slightly more significant.
 
 Moving to the welcome emptiness of a side hall we found the elevator that takes you up to Michaelangelo’s Dome. 
 Given our past experiences we gladly paid the 8000 lire and avoided 362 stairs. We followed a cavernous concrete 
 hallway that was the interior of the Dome to a balcony entrance. Stepping out on to the gallery immediately took 
-your breath away. 
+your breath away.
 
 Above you is the sweeping arch of the dome with light flooding in from the lantern at the top and spilling down 
 below to the multi-coloured marble floor of the Vatican. Light flows through stained glass windows. For a moment 
 the colours feel as though they have been diffused through a prism. The look is filtered and smoky. Then as clouds 
 shift over the sun the colour changes to sepia. This play of light continues as you walk around absorbing the sight 
-beneath you. 
+beneath you.
 
 From the floor a hushed din rises up and collects in the Dome, echoes for a moment then disperses as if absorbed by 
 the vastness of this structure. Suspended above all of this you are momentarily silenced by the sight. Then someone 
@@ -1557,7 +1552,7 @@ and created for your Creator. There is no greater example of this than the churc
 of this than the Vatican. Just look around. Everywhere you turn treasures of art, architecture and sculpture grace your 
 view. Under-foot marbles of many colours are molded into mosaics. The richness of the Church belies its purpose. It is 
 a permanent display of wealth that will never be realized. And it mesmerizes the world into worshiping art that was 
-originally created for the greater glory of God. 
+originally created for the greater glory of God.
 
 Still the Vatican is a peaceful place. Its vast inner space enfolds you in a soft diffused light as you drift from chapel to 
 chapel, head slightly bowed, speaking in whispers, absorbing eyes wide with the wonder of an endless display of 
@@ -1571,9 +1566,9 @@ Time is lost on us this day. Gelati and water make do as lunch. Heading for the 
 people coming towards us. This was strange. Normally we would be following them. Leafing through our guide-book 
 we discovered that the museum was closed for the afternoon. By now we had had enough. It annoyed us that we had 
 been shut out. Street sweepers were vacuuming up the remnants and refuse of the day, cleaning Vatican City for 
-tomorrow’s tourists. 
+tomorrow’s tourists.
 
-We decided we would be among them. 
+We decided we would be among them.
 
 This evening we decided to return to Trattoria Bruno. At last night’s restaurant we had the worst meal of our entire 
 trip. Something we never thought would happen in Italy. The trattoria received a glowing review but failed to deliver. 
@@ -1592,7 +1587,7 @@ steps made things even worse. Their system is a colourful confusion of A and B l
 thought we were riding the right one. It can be frightening when you realize you’re going the wrong way on the 
 wrong train. Asking for directions only compounds the confusion. Behind the glass the ticket taker said, "diritti." We 
 were left to figure out hand signs and finger pointing. Our decision was simpler; get out and walk back to Piazza dei 
-Cinquecento and catch the #40 express bus to the Vatican Museum. 
+Cinquecento and catch the #40 express bus to the Vatican Museum.
 
 A towering incline of stone wall eventually leads us to the entrance. Like the Vatican, the Vatican Museum is excessive. 
 All the riches of the Church gathered together in the largest, richest, most compelling  place can be culturally 
@@ -1612,7 +1607,7 @@ that it had to be a large room to contain a work so grand. Countless coffee tabl
 every aspect of Buonarotti’s Last Judgement had lulled me into thinking so. Instead I found myself in a barn-like 
 structure staring upward, finally, at the magnificent reality of a man’s genius. This is where the agony and ecstasy of 
 heavenly images on fresco had to be quickly created. Each day a fresh layer of plaster. Each day finishing before the 
-plaster dried. 
+plaster dried.
 
 A PA system announces in multiple languages that photography is forbidden and that you must be quiet for your are 
 in a holy place. Today it is the Pope’s private chapel. When he dies it will be the room where conclaves of Cardinals 
@@ -1629,7 +1624,7 @@ expensive espresso in Italy then you must stop in at Café Greco where waiters i
 
 As you leave the square you pass the Keats and Shelly Memorial House. Keats was not very happy about being in Italy 
 when he lived there. Perhaps that was because he was dying of consumption. Byron and Mary Shelly lived across the 
-square. 
+square.
 
 When we were in San Gimignano we met a woman who proclaimed that the best shopping in Italy was on Via 
 Condotti. Judging from the number of couture shops we can see why. Leaving the steps we pass the stores where the 
@@ -1665,9 +1660,10 @@ flight. With French Canadian pilgrims who are happy to be home we ride a crowded
 the terminal. Customs is like watching paint dry. Crowds fight for space around the luggage carousels and the night 
 drags on. Now we need to find a flight to Toronto and Air Canada is not co-operating. We sprint to the Canadian 
 counter without thanking the woman who directs us there. She thinks we are rude. Maybe we are. Politeness takes a 
-back seat to getting home. 
+back seat to getting home.
 
 Italy was never like this.
+
 
 
 

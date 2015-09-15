@@ -8,6 +8,26 @@ layout: post
 
 ### Written by: pointsurf
 
+I had heard about the hill-tribes in 
+northern Thailand, a collection of 
+Burmese, south China, Laotian, and Thai 
+natives, who had maintained ancient 
+traditions, stayed secluded from 
+urbanization, and basically lived the 
+same lifestyle they had for hundreds of 
+years. 
+Treks they called them. Voyeuristic 
+guided tours of these tribes. On the 
+one hand, it would be fascinating to 
+witness this culture and semi- 
+experience what is must have been like 
+to live hundreds of years in the past. 
+On the other hand, I felt the guilt of 
+imposing and contributing to the 
+touristic erosion of these people. 
+Morals aside, the Peeping Todd would 
+command this expedition.
+
 First thing, supplies. They would 
 supply food and blankets. What I needed 
 was a poncho for the rain, mosquito 
@@ -17,7 +37,7 @@ country, toilet paper is not often
 found in bathrooms, so Westerners place 
 great value on it. I carry a roll in a 
 holster on my belt, like a cowboy in 
-the old west.) 
+the old west.)
 
 It was a two hour drive into the 
 mountains to where our trail began. Our 
@@ -39,7 +59,7 @@ created lots of mud and there was
 little traction. At one point I slipped 
 and slid head first down the 
 trail, "Romancing the Stone" meets Pete 
-Rose. What a way to start the trek! 
+Rose. What a way to start the trek!
 
 After three hours of hiking we reached 
 the Hmong (or Meo) tribe. Colorful 
@@ -67,7 +87,7 @@ plain color garments indicated
 unmarried tribefolk, mostly children. 
 Young boys showed us their skills with 
 a sling-shot, consistently hitting a 
-small target more than 50 meters away. 
+small target more than 50 meters away.
 
 Dinner was cooked in a large kettle 
 over an open fire. Rice, spices, and 
@@ -77,7 +97,7 @@ monetarily wealthy, their cuisine is
 rich with flavor. We slept in a large 
 wooden hut on cots supported by stilts 
 a few feet off the ground. Thai whiskey 
-and a song before bed. 
+and a song before bed.
 
 I was first to wake at the sound of a 
 villager cutting wood for the breakfast 
@@ -93,7 +113,7 @@ was a rooster. Breakfast was eggs with
 onions and tomatoes, toast, and instant 
 coffee. They like to keep the tourists 
 happy with some of the comforts of 
-home. 
+home.
 
 We set out on the day's hike and waved 
 goodbye to the villagers. I was in the 
@@ -110,7 +130,7 @@ snake on the trail. Our guide said it
 was one of the most poisonous snakes in 
 Thailand (ONE of? We don't have ANY 
 poisonous snakes in Washington.) The 
-hike lasted three hours that morning. 
+hike lasted three hours that morning.
 
 Our effort was rewarded when we reached 
 the elephant camp. These beasts of 
@@ -136,7 +156,7 @@ the hiking boots now). We crossed a
 magical ridge. Endless mountain peaks 
 on both sides of us. On the left, 
 Burma, on the right, Laos. We crossed 
-streams and waded through rice paddies. 
+streams and waded through rice paddies.
 
 After another three hours of hiking we 
 came to a corn field. The stalks were 
@@ -221,7 +241,7 @@ activities. The tourists were sleeping
 off the conversation from the night 
 before. I slipped out of the hut and 
 savored the experience I was witnessing 
-(the highlight of my trip so far). 
+(the highlight of my trip so far).
 
 The others awoke an hour later. A quick 
 breakfast and we were off on an hour 
@@ -241,16 +261,17 @@ white water. We had survived, at least
 physically. At the bottom of the 
 rapids, we were met by the return 
 vehicle. NO MORE WALKING. 20 kilometers 
-over rugged terrain had been enough. 
+over rugged terrain had been enough.
 
 As we were driven back to the city of 
 Chiang Mai, I couldn't help but smile 
 at our amazing journey through time. An 
 experience none of us would ever 
-forget. 
+forget.
 
 Once in Chiang Mai, I went straight to 
 the massage parlor for a $5, 2 hour 
-full body massage. Life was good. 
+full body massage. Life was good.
+
 
 

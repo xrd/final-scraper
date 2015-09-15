@@ -8,6 +8,11 @@ layout: post
 
 ### Written by: Danny Spitler (dispitler)
 
+China Chapters
+Volume 2
+The Forbidden City
+By: Danny Spitler (dispitler@aol.com)
+
 We arrived at the China World Hotel around noon on 
 Saturday, China time.  We had lost a day crossing the 
 International Dateline.  The hotel was five star in all 
@@ -33,7 +38,7 @@ entrance to the Forbidden City and the place where Mao Ze
 Dung stood to proclaim the beginning of the People's 
 Republic of China on October 1, 1949.  You can imagine the 
 party that they are going to have here in a couple of 
-months at the 50th anniversary of that event.  
+months at the 50th anniversary of that event.
 
 For our group picture a couple of the girls cajoled an 
 uniformed policemen into joining our group for the 
@@ -50,7 +55,7 @@ City.  Our Beijing guide, Jon Jin, purchased our tickets
 and we were transferred from modern day China to six 
 centuries earlier as we began to wander through the huge 
 city built exclusively for the many emperors who ruled 
-China for over two milleniums.  
+China for over two milleniums.
 
 It was hot and humid and there were thousands of other 
 tourists to contend with, but nothing could detract me from 
@@ -69,7 +74,7 @@ enough to take a well-earned photo and then started
 fighting my way back out of the crowd.  I finally broke 
 free with the feeling that I had just had an intimate 
 encounter with a small percentage of the Chinese 
-population. 
+population.
 
 We continued to wander from one amazing site to another 
 listening to Jon Jin provide interesting facts and stories 
@@ -93,7 +98,7 @@ head.  This was a major no-no.  I think that we can
 conclude from this story that sex has not changed much over 
 the last few centuries.   We still take time to remove the 
 jewelry and there is still groveling involved.  We have 
-just had gender role reversal.   
+just had gender role reversal.
 
 Prior to exiting the Forbidden City we were ushered into a 
 gift shop where the People's Republic gave us every 
@@ -105,13 +110,13 @@ turned out this was one of Chairman Mao's favorite places
 to eat.  His smiling face adorned the wall of the entryway, 
 and I assumed that he signed his picture with Chinese 
 characters which could be loosely interpreted as "Who loves 
-ya, baby?"  
+ya, baby?"
 
 We packed our hot, sweaty bodies around two large, round 
 tables and had the first of many sumptuous Chinese lunches 
 and dinners.  I quickly relearned my chopstick skills and 
 was soon snatching items onto my plate as the dishes rolled 
-by on the center lazy susan. 
+by on the center lazy susan.
 
 After lunch and a short bus ride to the suburbs we found 
 ourselves wandering around through the extensive grounds of 
@@ -121,7 +126,7 @@ a huge lake, which we learned, was dug out by several
 thousand peasants.  The highlight of hot, crowded afternoon 
 was when tall Brad (6’ 8”)  waded into a large group of 
 grade school kids on a field trip and let them all pose for 
-pictures with the giant American.    
+pictures with the giant American.
 
 We arrive back at the hotel just in time for a quick shower 
 before reassembling in the lobby for a trip to a downtown 
@@ -129,11 +134,12 @@ restaurant and a Peking Duck dinner.  Dinner was followed
 by a request for a special stop on the way back to the 
 hotel.  Jon Jin went to bat for us with the bus driver, and 
 we all got to buy T-shirts at the Hard Rock Café of 
-Beijing.  
+Beijing.
 
 Next…..The Great Wall 
-I    
+I
 
-   
+
+
 
 

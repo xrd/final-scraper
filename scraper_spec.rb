@@ -21,6 +21,22 @@ describe "#run" do
     end
   end
 
+  describe "#body" do
+    before( :each ) do
+      @scraper.scrape()
+    end
+
+    it "should have a body with Brazil in it" do
+      found = false
+      @scraper.pages.each do |p|
+        rows = @scraper.get_rows( p )
+        # puts "Body: #{rows[4].text()}"
+        found = true if rows[4].text() =~ /salvador/i
+      end
+      expect( found ).to eq( true )
+    end
+  end
+  
   describe "#get_filename" do
     it "should take 'Cuba - the good and bad' on January 12th, 2001 and get a proper filename" do
       input = 'Cuba - the good and bad'

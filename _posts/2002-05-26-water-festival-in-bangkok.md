@@ -8,6 +8,8 @@ layout: post
 
 ### Written by: Danny Spitler (dispitler)
 
+Song Kron Celebration in Thailand
+
 There is something about landing at Bangkok Airport that is 
 special…..at least to the male members of our family.  This 
 was the country where, twenty years ago, we negotiated and 
@@ -18,7 +20,7 @@ country a half a world away.  Over a three-year period we
 drilled two hundred water wells, installed pumps and 
 underground pipelines, and delivered the first year-round 
 water supply to a group of Thai villages that can now grow 
-three crops a year instead of just one. 
+three crops a year instead of just one.
 
 While I had made only one trip to Thailand during that 
 period, Dad had taken many trips and had stayed for weeks 
@@ -40,7 +42,7 @@ piece suit and tight shoes and into a soft cotton tee shirt
 and sandals.  It was time to relax and reconnect with old 
 friends and old memories.  We had talked Dad into joining 
 us in Thailand and his flight from the states was scheduled 
-to arrive a few hours behind ours.  
+to arrive a few hours behind ours.
 
 Our project manager back in the old days had been a big 
 Texan named Larry.  During his stay, he fell in love with 
@@ -49,7 +51,7 @@ the “land of smiles.”  We hadn’t seen Larry for many years,
 and we were looking forward to a reunion with him and some 
 of our former Thai associates, all of whom promised to be 
 waiting for us at one of old watering holes in the Pat Pong 
-nightclub district.     
+nightclub district.
 
 Since our last trip, several miles of a new elevated toll 
 road had been completed, and we made it to our hotel in 
@@ -64,7 +66,7 @@ and restaurants in the area were in the process of covering
 with plastic anything and everything that needs to stay 
 dry.  The reason......Saturday and Sunday was the Thai new 
 year and everyone was gearing up for the annual Song Kron 
-celebration.  
+celebration.
 
 Dee had done his best to plan our schedule so that we could 
 be in Bangkok for Song Kron.  He had been through one 
@@ -91,7 +93,7 @@ returned with a couple of machine gun looking affairs and a
 water bazooka.  At noon on Saturday, we dressed for 
 combat......old shorts and tee shirts, which could never be 
 worn again, and aqua sport slippers, which holds a grip 
-while soaking wet.  
+while soaking wet.
 
 After extensive reconnaissance Mark and Ian had already 
 decided where we would locate our base of operations.  They 
@@ -104,7 +106,7 @@ low, and there was a three-foot wall to duck behind if we
 began taking too much incoming fire.  We negotiated a truce 
 with the troops in the open-air bar across the street, and 
 then we were assigned our positions and battle 
-responsibilities.  
+responsibilities.
 
 Our weakest point of exposure was from the sidewalk behind 
 us.  Enemy troops could use a flanking action and attack us 
@@ -126,7 +128,7 @@ any assaults with more traditional style arms like buckets,
 large plastic glasses, and water balloons.  The problem is 
 to avoid those dedicated members of the enemy who insist on 
 using chemical warfare (talcum powder mixed with water that 
-gets smeared onto your face and hair). 
+gets smeared onto your face and hair).
 
 The battle plan was to hold our position as long as 
 possible while annihilating anyone unfortunate enough to 
@@ -168,7 +170,7 @@ positioned on an overhead cross walk.  They were equipped
 with water balloons and a garden hose.  Together we set up 
 a deadly killing field in front of the Cosmos.  We were the 
 ground troops and they gave us plenty of air support from 
-above.  
+above.
 
 At the end of another couple of hours we declared victory 
 and headed soggily back to our rooms to take warm showers 
@@ -183,7 +185,7 @@ Drinks were served with plastic bags over the glasses with
 a hole punched for a straw.  I don’t know what the water 
 bill is in Thailand for this festival, but I am glad that 
 it is celebrated at the beginning of the rainy season so 
-that they can replenish the city’s water supply. 
+that they can replenish the city’s water supply.
 
 As the party began to wind down, which occurred sometime 
 prior to daylight, Dad, Dee and I were all glad that our 
@@ -191,7 +193,8 @@ hotel was within walking distance.  We were glad that we
 had gotten to participate in this most unique and happy 
 celebration.  We were glad to be together and surrounded by 
 old friends, and we were especially glad to be back in 
-the “land of smiles.”   
+the “land of smiles.”
+
 
 
 

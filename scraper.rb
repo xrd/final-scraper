@@ -38,14 +38,17 @@ class Scraper
   end
 
   def process_title( row )
-    row.strip.gsub( /"/, '' ) # if row
+    row.strip.gsub( /"/, '' ) if row
   end
 
-  def process_body( paragraphs )
-    body = ""
-    paragraphs.each do |p|
-      text = p.text().strip.gsub( /\*\s*/, '' )
-      body += text + "\n\n"
+  def process_body( row )
+    full = row.text()
+    all_ps = ( row / "p" )
+    first = full.gsub( all_ps.text(), '' )
+    first.strip!
+    body = first + "\n\n"
+    all_ps.each do |p|
+      body += p.text().strip() + "\n\n"
     end
     body
   end
@@ -79,10 +82,6 @@ class Scraper
     rendered
   end
 
-  def process_body( paragraphs )
-    paragraphs.map { |p| p.text() }.join "\n\n"
-  end
-
   def process_image( title )
     img = ( title / "img" )
     src = img.attr('src').text()
@@ -101,15 +100,19 @@ class Scraper
 
     filename
   end
+
+  def get_rows( page )
+    page / "table[valign=top] tr"
+  end
   
   def run
     scrape()
     @pages.each do |page|
-      rows = ( page / "table[valign=top] tr" )
+      rows = get_rows( page ) 
       processed = {}
       processed['title'] = process_title( rows[0].text() )
       processed['creation_date'] = process_creation_date( rows[3].text() )
-      processed['body'] = process_body( rows[4] / "p"  )
+      processed['body'] = process_body( rows[4] )
       processed['image'] = process_image( rows[0] )
       author_text = ( rows[2] / "td font" )[0].text()
       processed['author'] = $1.strip if author_text =~ /author:\s+\n\n+(.+)\n\n+/

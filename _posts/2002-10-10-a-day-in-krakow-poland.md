@@ -8,6 +8,13 @@ layout: post
 
 ### Written by: Danny Spitler (dispitler)
 
+I am not exactly sure what ingredients are needed to create 
+a perfect travel day. I suspect that it should include 
+sharing the day with someone you love and ending the 
+day…….well, romantically. If this is the case then my 
+Saturday in Poland didn't quiet reach that standard; 
+however, for a day by myself, it was near perfect.
+
 I awoke in my Katowice hotel room just before my small 
 travel alarm clock went off, and I showered quickly. I 
 pulled on a white tee shirt, blue jeans, and walking shoes. 
@@ -16,7 +23,7 @@ I had my folded one-sheet map of downtown Krakow, a
 sufficient number of Polish zolatas, and my round trip 
 train ticket. I draped my sunglasses around my neck, slid 
 my camera case onto my belt, and declared myself ready 
-explore. 
+explore.
 
 At the hotel breakfast buffet I slammed down a glass of 
 grape juice and a bowl of granola in five minutes flat. I 
@@ -27,7 +34,7 @@ through the door of the first class club car and settled
 into a compartment with three unoccupied seats and plenty 
 of room to stretch out and relax. The train pulled away 
 from Katowice, and soon I was gazing out the window at the 
-green Polish countryside. 
+green Polish countryside.
 
 It was 8:45 AM when we arrived at the Krakow train station. 
 My light jacket was just enough to offset the mild morning 
@@ -36,7 +43,7 @@ Gate, built in the 15th century. This was the ceremonial
 gate through which royalty always entered into the city. I 
 strolled past the huge brick walls, which were blackened by 
 hundreds of centuries of exposure to the elements, and I 
-stepped through the entrance into old town Krakow. 
+stepped through the entrance into old town Krakow.
 
 Like most European cities Krakow doesn't start its day very 
 early. Most shops and restaurants do not open until at 
@@ -45,7 +52,7 @@ I got to watch the city come alive. I walked past a
 McDonalds without the slightest temptation to go in. I 
 hurried down the street until the huge downtown square 
 opened before me. It is the kind of place that you would 
-imagine if you heard the words, "European charm." 
+imagine if you heard the words, "European charm."
 
 The square itself takes up a huge city block. In the center 
 of the square is a very pretty structure called Rynek 
@@ -65,7 +72,7 @@ rolls. He handed me the roll and told me the price. Not
 understanding what he said I held out a palm full of change 
 and he picked out the equivalent of about a quarter. I sat 
 on a bench, munched on my obwarzanki, and watched the early 
-activity on the square. 
+activity on the square.
 
 I watched two horse drawn carriages pull into place 
 alongside the square preparing to offer romantic carriage 
@@ -77,7 +84,7 @@ came the flowers. Soon several flower stands began to
 appear with a dazzling array of roses, daisies, tulips, 
 sunflowers, and numerous other varieties. Even a few 
 pigeons began to appear, arriving from wherever it is that 
-pigeons spend the night. 
+pigeons spend the night.
 
 After an hour of simply sitting and watching the scene I 
 decided it was time to begin my sight seeing and I headed 
@@ -88,7 +95,7 @@ tickets for two different tours. The first took me through
 the treasury and the armory. The armory, which was a large 
 display of weapons, was the most impressive. It is amazing 
 to see that, throughout the ages, there has never been any 
-shortage of creative ways for us to kill one another. 
+shortage of creative ways for us to kill one another.
 
 My second tour consisted of an hour of wandering through 
 various rooms of the palace while viewing centuries old 
@@ -119,7 +126,7 @@ nodded "yes" and he slathered something red over the top
 and thrust the finished product into my hands. I carried my 
 Keebab to the square where I bought a Pepsi and found a 
 shaded stair step to sit on while I enjoyed my Polish fast 
-food. 
+food.
 
 My map indicated a museum a couple of blocks off the 
 square, and since I still had several hours before the last 
@@ -137,7 +144,7 @@ of a young woman holding a white ermine, and it appeared to
 be quite an old painting. Then I noticed a small brass 
 stand with the painter's name. I slipped on my reading 
 glasses and read the name Leonardo da Vinci. Question 
-asked, question answered. 
+asked, question answered.
 
 In 1994 I managed to stand on tiptoes and got a glimpse of 
 the Mona Lisa in a crushing crowd at the Louve in Paris, so 
@@ -149,7 +156,7 @@ another painting was prominently featured. I immediately
 looked for the artist name and discovered that I was now 
 standing in front of an original landscape by a guy named 
 Rembrant. I made a point of walking slowly through the rest 
-of the gallery. 
+of the gallery.
 
 I spent my last hour in Krakow gravitating back to the City 
 Square with its artists, flowers, restaurants, carriages, 
@@ -159,7 +166,7 @@ only when I was seated on the train moving away from the
 city did it occur to me that within a few miles of this 
 beautiful peaceful city was a place I visited three years 
 earlier: the Nazi death camp at Auschwitz. The contrast was 
-almost too much to comprehend. 
+almost too much to comprehend.
 
 
 

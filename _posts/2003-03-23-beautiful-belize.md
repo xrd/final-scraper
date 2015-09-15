@@ -8,6 +8,8 @@ layout: post
 
 ### Written by: RE Ausetkmt (ausetkmt)
 
+
+
 This winter I took a holiday cruise which included the 
 port of Belize City, Belize. I had never traveled to 
 Belize so this was the perfect opportunity; with the fares 
@@ -29,7 +31,7 @@ attendant delivered our freshly made hot tea, hot
 chocolate, fresh fruit plates, a fresh croissant and those 
 infernal prune Danish pastries.
 
-  Since there was only one croissant I took it, because 
+Since there was only one croissant I took it, because 
 Mary still wanted to go to the Dining room for a hot 
 breakfast.  I ate sitting on my bed, as she hurriedly 
 showered and dressed for breakfast in the dining room.  
@@ -54,7 +56,7 @@ folks rushing into the elevator who were obviously not
 going to be going tubing or to the zoo, but just wanted to 
 get off the ship after 2 days of being confined at sea.
 
- 
+
 
 Many of those quiet looking grandmother types can be 
 lethal with their bags when standing in line waiting to 
@@ -75,12 +77,11 @@ can be a bit of  an inconvenience if you have any mobility
 limitations. The folks on the platform and the captain on 
 the tenders, take good care of the passengers and make 
 sure that the boats are securely anchored to the platform 
-so that no one falls. 
+so that no one falls.
 
- (You can see my photo’s of the tendering and Belize Trip 
+(You can see my photo’s of the tendering and Belize Trip 
 in the photo album for this review which is located at 
 http://ausetkmt.com/winter-holiday02.html)
- 
 
 Mary and I get tickets in the showroom, ship stickers, and 
 then go back up onto the deck to watch the tendering 
@@ -91,7 +92,7 @@ cuts, and Hand Carved Roast Beef, Turkey and Ham. All
 manner of sandwich making materials, slices of various 
 cakes, pies, and cookies are in abundance.  The entire 
 café is full of folks watching the tendering process out 
-of the windows while having lunch, a nice idea indeed.  
+of the windows while having lunch, a nice idea indeed.
 
 Mary spots Scotty and Billy. They have a table in the 
 middle and since we have a table by the windows we invite 
@@ -102,7 +103,7 @@ tenders come and go like a small fleet of water taxi’s.
 it’s interesting to see how NCL Gets it’s passengers 
 ashore in some locations, and this is one of the most 
 innovative that I’ve enjoyed in my many cruises with 
-them.  
+them.
 
 Finally at 12:30 they give a general shore call and we 
 depart for deck two.  Mary and I follow the hordes to the 
@@ -117,9 +118,9 @@ the gangway onto the floating platform, it’s not exactly
 clear to us what is moving which way; but the moment that 
 you put your foot on that platform, you know.  I move 
 quickly because I can see that the sea swells are moving 
-both the platform, Ship and then there’s the Tender.  
+both the platform, Ship and then there’s the Tender.
 
- 
+
 
 When I get to the tender from the gangplank, I get 
 assistance from two gentleman, who literally lift me over 
@@ -133,7 +134,7 @@ several times. They are excited about going to Belize
 since they’ve been to every other Caribbean port that NCL 
 offers.  They were veterans of at least 20 cruises, and 
 had come strictly to come to Belize.  They were as excited 
-as we were.  
+as we were.
 
 Behind Mary was a group of  folks from Tennessee who 
 Fished like Mary.  They were so excited about the 
@@ -154,7 +155,7 @@ throwing in the use of his poles since they were traveling
 on a cruise ship.  Talk about Belizean Hospitality, Yeahhh 
 Mon !!!
 
- 
+
 
 We take off when the tender is full and we head off to 
 Belize City, passing many smaller cayes, and enjoying the 
@@ -175,8 +176,7 @@ excursions to the close-by tropical and exotic cayes.  We
 have a reservation for a car rental from Crystal Car 
 Rentals and Tours;  they are located conveniently in the 
 shopping craft park just outside the doors of the 
-building.  
-
+building.
 
 Our first stop is at the currency exchange, like lots of 
 other folks.  The 2 for 1 exchange rate makes it a 
@@ -196,9 +196,9 @@ it is in Cozumel. ( more on that later )  We find Crystal
 easily in the lot outside in a small log cabin, clearly 
 marked.  The lady’s in the office are pleasant when we 
 enter the office, and immediately ask us if we’d like a 
-cool drink.  
+cool drink.
 
- 
+
 
 They have the reservation prepared and the car is ready 
 and waiting in the lot for us. It’s already chilled out 
@@ -214,8 +214,7 @@ before return of the vehicle. We get a nice clean new 2002
 blue ford escort. 4 doors, ac, clean and nice. Our waiter 
 Locksley is in the port and spots us, we invite him along 
 and he graciously accepts since he says he never comes 
-ashore in Belize.  
-
+ashore in Belize.
 
 We head out on the one way road from the tourist village 
 and round the corner heading for the main shopping 
@@ -238,9 +237,9 @@ well,, how can I do this ??  I ask Locksley if he’d mind
 car sitting while we went and shopped quickly, since it 
 was already 1:30 and he had to be back at the pier by 
 4:30.  He said “No Problem Mon, go shop I’ll watch your 
-car “ 
+car “
 
- 
+
 
 With that Mary and I dashed away with our shopping bags in 
 hand and purses strapped on securely for the hunt.  We 
@@ -258,7 +257,7 @@ walking out the door at the opposite end past rows of
 galvanized tubs nailed to boxes stored on faded pastel 
 shelves, overhead on the walls.  There was Marine paint, 
 House paint and Nail polish all in the same section – how 
-unique I thought.  
+unique I thought.
 
 Maybe American vendors should see this useful logic, and 
 stop plugging up our landfills with loads of paper from 
@@ -325,8 +324,7 @@ to me, " You really Like it Hot". I laughed too, and
 said " Oh Yes, don't we all..." they asked if I was 
 staying in town, and I admitted to being a cruiseship 
 passenger intown for the day, and in the supermarket even 
-while on holiday. They got quite a laugh out of that one. 
-
+while on holiday. They got quite a laugh out of that one.
 
 I paid for the goods, all three bags including Rum, 
 amounted to $30.00 BZ. that's about $15.00 us, what a 
@@ -346,7 +344,7 @@ chilling in the car when we walked up, he jumped out to
 help us get the packages into the trunk of the car. It was 
 Mary's turn to drive, and my turn to dictate the route, as 
 if I knew where we were headed. We got into the car and 
-headed back out onto Albert St, toward the Swing Bridge. 
+headed back out onto Albert St, toward the Swing Bridge.
 
 When we spotted the Bridge, we looked at it quickly, as 
 the traffic is nonstop fast, and moving in all directions 
@@ -389,8 +387,7 @@ that Belezian, or us dollars ? and he answers US. I crack
 up, along with Mary. Locksley lowers his head and shakes 
 it, laughing at the obvious joke. We tell the man that we 
 get the joke, and we'll be back to see him when we are 
-ready to go fishing. He laughs too. 
-
+ready to go fishing. He laughs too.
 
 we cross the street and talk to some Rastas standing on 
 the corner selling Water Coconuts, and Sugarcane in small 
@@ -412,7 +409,7 @@ smiling Chef, and Cashier await our order. Mary orders the
 Sorrell and Snapper Stew upon the Recommendation of 
 another smiling friendly Rasta Brethren sitting in the 
 restaurant. I introduce myself to him, and he says he is 
-Ras Iley. 
+Ras Iley.
 
 We Hug and exchange Rasta Pleasantrys. it is lovely again 
 to meet a nice and pleasant person just looking to share 
@@ -455,8 +452,7 @@ pictures and sit and talk for a while; watching the
 tenders ferry passengers to the various ships anchored off 
 the coastline. It's almost 5pm and we still have to fill 
 up the car with petrol before returning it, for our tender 
-back at 530pm. 
-
+back at 530pm.
 
 We pile back into the car, with me driving. we return back 
 to the Shell petrol station nearest the tourist port. I 
@@ -486,7 +482,7 @@ Belize Tourism against his station. Therefore I am warning
 everyone who goes and rents a car in Belize - Do Not 
 Patronize the Shell Station nearest the Belize Tourism 
 Village - lest you be Hookwinked, Bamboozled and called 
-out of your name. 
+out of your name.
 
 This station manager deserves a full day of hearing Al the 
 ship's unprepared Port Tour Director Discuss why not to go 
@@ -498,7 +494,7 @@ awaiting their responses in regard to the incident. I
 expect that anyone who visits the page and takes my advice 
 in regards to this incident, Will be Properly " Forewarned 
 and Fore Armed, against this Crooked Manager and Shell 
-Station". 
+Station".
 
 When we arrive back at the car rental office and return 
 the car, we tell them about the incident and they take a 
@@ -522,7 +518,7 @@ they wished they had gone shopping with us instead. he
 asks us what goodies we came back with, and the Tender 
 begins to load. We find seats together and enjoy the 
 breezy sunset ride back to the ship. the sunset is 
-absolutely breathtaking. 
+absolutely breathtaking.
 
 
 
@@ -564,8 +560,7 @@ departed the mayhem of the party for the quiet of my
 cabin, at around 1030pm. I was ready for a good nights 
 sleep after two of those lethal pineapples. I can't tell 
 you when Mary came in because I was knocked out happily 
-so. 
-
+so.
 
 All in all I recommend a day in Belize to wet your thirst 
 for a full week in this still tropical paradise.  the air 
@@ -578,6 +573,7 @@ talk to the folks at the tourist board booth in the
 tourist village - and they'll be happy to point you in the 
 direction of any of the numerous natural attractions and 
 ecological wonders that can only be enjoyed in a pristine 
-environment like Central America, and Beautiful Belize.  
+environment like Central America, and Beautiful Belize.
+
 
 

@@ -8,6 +8,8 @@ layout: post
 
 ### Written by: Mark Kashman (mkashman)
 
+Lava Beds Ate Our Shoes
+
 "Says here just two miles to the deserted black-sand beach," 
 said Carolyna, my wife and love now doning her sneakers in 
 place of the recently purchased flip-flops; though they need 
@@ -64,7 +66,7 @@ water to bring... a lot! It's amazing how lava soaks up the
 sun and makes the aura of the Earth breathe fire with an 
 updraft of air that pulsates the mist of mirage. Phew! So we 
 drink like fish till our gills burst. Then we sweat, than we 
-drink more. We are evaporative coolers humming right along. 
+drink more. We are evaporative coolers humming right along.
 
 After two miles we come upon the turn in the trail we had 
 read about. "Hang a left and go into the green oasis." So we 
@@ -74,7 +76,7 @@ dodge tree branches. Now, this wouldn't be a strange thing
 for the rest of Maui, but here among the rocks stands a mass 
 of trees defying the rest of the bleak landscape. They appear 
 so green in contrast, like someone had cranked the chroma 
-colors on the TV set. 
+colors on the TV set.
 
 The path finally wanders its way around and plops us right 
 onto a pristine black-sand beach. And instantly we are 
@@ -92,5 +94,6 @@ define the road less traveled. Well, that was on this day.
 The next day we spent chasing piña coladas with flower-
 patterned hats shaded from the sun. The flip-flops flipped 
 back on and nothing but Aloha all around.
+
 
 

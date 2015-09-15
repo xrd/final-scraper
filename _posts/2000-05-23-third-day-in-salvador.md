@@ -8,6 +8,14 @@ layout: post
 
 ### Written by: Chris Dawson (cdawson)
 
+I'm now entering the my third day in Salvador.  There is, so far, much 
+to like.  The people are beautiful and they seem to know it, which 
+makes them doubly so.  The view from the beach is fantastic.  The city 
+itself, from what I've seen in two days, is full of deep history 
+beneath the cobblestones.  Before I left Portland I was having second 
+thoughts about coming here but I know I have made the right decision 
+now.
+
 So far I've only really come in contact with people who speak English 
 well.  Aside from my roommate who speak English not at all, that is.  
 The first person I met was Jussara, the daughter of the woman who is 

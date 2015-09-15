@@ -8,6 +8,11 @@ layout: post
 
 ### Written by: Chris Dawson (cdawson)
 
+Italy is magnificent in the fall.  I have never spent time 
+here and not found it to be incredible, but the weather is 
+absolutely perfect for fall.  Sunny, with a little rain in 
+the mornings to clean the air.
+
 I am sure I was not alone in my thinking about getting on 
 an airplane after September 11th.  I definitely gave it 
 more reflection and thought than I would have given it 
@@ -18,7 +23,7 @@ sitting next to them, both negative and positive.  Nothing
 out of the ordinary occurred, no tear jerking speeches from 
 the cockpit, and no suspicious eyes following anyone as far 
 as I could tell.  Things seemed to be back to normal, as 
-best they could.  
+best they could.
 
 I wonder if this is the way it should be after something 
 like the attacks.  One part of me hopes that this will be a 
@@ -64,7 +69,7 @@ interested in getting more information about the attacks,
 just like I was.  And on the train from Florence to Rome 
 yesterday, we overheard people talking about the "war," and 
 I have yet to hear someone here speak out in support of 
-this war, or any war.  
+this war, or any war.
 
 I love to travel.  It is a selfish thing in so many ways, 
 just to expose myself to things that I think are 

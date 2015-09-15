@@ -8,11 +8,15 @@ layout: post
 
 ### Written by: Danny Spitler (dispitler)
 
+China Chapters
+The Great Wall
+By: Danny Spitler (dispitler@aol.com)
+
 I could hardly contain my anticipation for Monday's tour.  
 There were a couple of stops scheduled along the way, but 
 the day's bus ride was going to conclude at The Great Wall 
 of China. I was fairly sure that this would the highlight 
-of the trip for me. 
+of the trip for me.
 
 We fought our way through the Beijing Monday morning rush 
 hour to the outskirts of the city where we made the 
@@ -25,7 +29,7 @@ for show as the retail part of the building was 30 times
 larger than the tiny factory, and you were a bit 
 overwhelmed by the sheer number of Jade figurines.  They 
 ranged from tiny little jade figures to huge complex pieces 
-of ocean going ships carved in intricate detail.   
+of ocean going ships carved in intricate detail.
 
 This was our first exposure to the Chinese retail sales 
 philosophy.  If you expressed the slightest interest in an 
@@ -38,7 +42,7 @@ that you could ever imagine.   I have bargained in Mexico
 and Thailand, but the Chinese have taken the process to a 
 whole new level.  After 45 minutes of Jade overkill we all 
 stumbled back to the bus lugging our packages and feeling 
-like a bunch of shorn sheep. 
+like a bunch of shorn sheep.
 
 Our next stop was the Ming Tombs, which included a stroll 
 up the Sacred Walk.  This is a quarter mile sidewalk lined 
@@ -53,7 +57,7 @@ tomb is actually a small city of buildings and gardens, and
 the emperors' coffins were buried deep within the 
 mountain.  Those who placed the coffin were then killed so 
 no one knew how to find it.  How is that for a severance 
-package?   
+package?
 
 We only visited one of the tombs where we viewed some 
 relics.  Some of the displays were reproductions since the 
@@ -62,7 +66,7 @@ Revolution.  We learned that many treasures of ancient
 China were destroyed during this period.  Our guide tried 
 to be subtle, but I could tell that he was disgusted by 
 what had been done by these government sanctioned marauders 
-during the 70's. 
+during the 70's.
 
 About 45 minutes after leaving the Ming Tombs we caught our 
 first glimpse of the Wall.  Just looking out the bus window 
@@ -72,7 +76,7 @@ could see sections of this amazing structure snaking around
 the tops of the mountains.  Jon Jin gave us a running 
 commentary about the history of the wall as we anxiously 
 awaited the opportunity to jump off the bus and stand on 
-it. 
+it.
 
 It was 2:30 when we arrived at the most popular tourist 
 spot along the wall.  This is the place where Nixon had 
@@ -99,7 +103,7 @@ wall with a determined look.  I had bumped into Marie both
 mornings in the weight room and she seemed to know her way 
 around the equipment.  The rest of the group was milling 
 around the landing taking photos and gaping at the amazing 
-structure stretching endlessly across the mountaintops. 
+structure stretching endlessly across the mountaintops.
 
 Don and I attacked the first set of steps at a quick pace, 
 and we didn't stop climbing for the first 150 steps.  By 
@@ -110,7 +114,7 @@ us Marie arrived red-faced but looking determined.  As soon
 as the leg pain subsided we took on the next flight.  There 
 were plenty of other tourists on the wall, but it was wide 
 enough to accommodate all the walkers without slowing us 
-down.  
+down.
 
 With each increase in elevation the views changed and 
 additional photo ops appeared.  While catching our breath 
@@ -122,7 +126,7 @@ and eventually we arrived at what appeared to be the last
 major set of stairs.  These were formidable.  There were 
 over 60 steps, all very steep.  In fact, they appeared 
 almost vertical.  Descending walkers were coming down 
-slowly and hanging onto the guardrails.   
+slowly and hanging onto the guardrails.
 
 All of our shirts were soaked with sweat and the legs ached 
 terribly, but there was no thought whatsoever of quitting.  
@@ -137,7 +141,7 @@ Chris along with Dale and Janet arrived a few minutes
 later, and we all hammed it up for Brad's video camera.  
 Soon we were surrounded by Chinese who wanted their picture 
 taken with the sweaty Americans, especially Chris with her 
-blond hair and blue eyes.  
+blond hair and blue eyes.
 
 From this uppermost part of the wall we could see 
 spectacular views in all directions especially to our right 
@@ -147,7 +151,7 @@ downward back to where we had just climbed.  After plenty
 of pictures and several minutes of exhilarated exhaustion 
 we knew we needed start back down.  With regretful 
 resignation we started down, determined to continue and 
-relish the experience all the way back to the waiting bus.  
+relish the experience all the way back to the waiting bus.
 
 After our Great Wall experience we were all ready for an 
 early night, plus there was packing to be done.  We hit the 
@@ -158,17 +162,18 @@ plate those items with which you are totally unfamiliar.
 In other words, if you know what it is you aren't allowed 
 to eat it.  Later, after seeing the open markets and 
 learning what all the Chinese do actually eat, I suspended 
-the rule. 
+the rule.
 
 After dinner I walked around the corner with Brad and Chris 
 to an Internet café where we all sent e-mails and then 
 headed back to our rooms.  After I finished packing I 
 collapsed into bed with the thankful realization that, if 
 the trip were to end at that moment, it would still have 
-been well worth the price. 
+been well worth the price.
 
 
 
-   
+
+
 
 

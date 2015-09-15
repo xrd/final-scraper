@@ -8,6 +8,12 @@ layout: post
 
 ### Written by: Danny Spitler (dispitler)
 
+Pam and I woke up early on Tuesday in anticipation of the 
+highlight of our cruise.  We were docked near the city of 
+St. Petersburg, Russia.  All of us in the “cold war” 
+generation took a deep breath as we prepared to venture 
+forth into what was always the evil empire.
+
 Russia continues to be more restrictive on its tourists 
 than other European countries.  In order to enter Russia 
 you must secure a visa from a Russian Consulate in the 
@@ -16,14 +22,14 @@ you signed up with one of the ship’s tours and would not be
 moving around on your own.  We had read that it was not 
 very easy to get around on your own and taxi service was 
 spotty at best, so we spent the big bucks and signed up for 
-a full two-day tour.  
+a full two-day tour.
 
 We disembarked the Brilliance of the Seas to the sound of a 
 three-piece Russian band playing American show tunes.  We 
 were required to clear Russian immigration by showing our 
 passports and proving that we had a tour ticket before 
 being allowed to head for our buses.  Believe it or not our 
-guide’s name was Natasha. 
+guide’s name was Natasha.
 
 Our first stop was several miles outside the city at the 
 Peterhof Grand Palace, the summer palace of Peter the Great 
@@ -35,7 +41,7 @@ surrounded and laid siege to the city for over 900 days,
 but they were never able to capture the city itself.  This 
 horrible period, when a large part of the population was 
 killed by war or starvation, seems to define much of what 
-the city and its people are all about.  
+the city and its people are all about.
 
 Peterhof, like most of the palaces outside the city, was 
 heavily damaged during the war, but the artwork and most of 
@@ -60,7 +66,7 @@ As we moved through the ornately decorated rooms of the
 palace we were reminded of Versailles.  This was also true 
 when we exited into the huge gardens filled with dozens of 
 large fountains and water features.  The Russian royalty, 
-like their European counterparts, knew how to live well.  
+like their European counterparts, knew how to live well.
 
 We took a long walk through the gardens and down to the 
 Baltic Sea where we were loaded onto a hydrofoil for a fast 
@@ -82,7 +88,7 @@ closed by Stalin in the 1930s and was used as a warehouse,
 but it has been meticulously restored and is filled with 
 floor to ceiling mosaics, pink Italian marble, and an alter 
 filled with semi-precious stones supported by four jasper 
-columns.  It is very extravagant. 
+columns.  It is very extravagant.
 
 Next we visited St. Isaac’s Cathedral.  This is a huge 
 church built more in a European architecture.  It took 
@@ -99,7 +105,7 @@ and we were scheduled to see St. Paul’s when we returned to
 London.  Unfortunately I have only climbed to the top of 
 the Dumo in Florence and Natasha wasn’t about to hold up 
 the tour for an hour and let me climb to the top of St. 
-Isaac’s. 
+Isaac’s.
 
 We returned to the ship to relax for a while.  I couldn’t 
 stand not knowing what was happening with the Diamondbacks 
@@ -108,7 +114,7 @@ find out they had dropped seven out of their last nine
 games, but they were still in first place.  We went to 
 dinner but skipped the show so that we could get to bed 
 early.  We wanted to be wide-awake for our second day of 
-touring in St. Petersburg. 
+touring in St. Petersburg.
 
 We were up at 6:45 for breakfast and were off the ship 
 thirty minutes early to get through the immigration lines.  
@@ -122,7 +128,7 @@ everything we were passing, seeing, or smelling.  She never
 referred to a note and was never at a loss for an answer to 
 any question.  Some of the group privately complained that 
 she gave us way too much information, but we liked it and 
-tried to soak up every word.  
+tried to soak up every word.
 
 The high point of our trip was St. Petersburg, but the high 
 point of St. Petersburg was the Hermitage Museum.  Rivaling 
@@ -135,7 +141,7 @@ amazing.  We were told that the collection includes
 millions of items.  You could spend one minute on each item 
 in the Hermitage collection and you would still need many 
 years to see it all.  Needless to say our three-hour tour 
-was only going to hit the highlights.  
+was only going to hit the highlights.
 
 To our delight we were the first bus to arrive and Natasha 
 made sure we were waiting on the front steps prior to the 
@@ -144,7 +150,7 @@ were serenaded by a two-man band playing some non-Russian
 music.  Their repertoire included The Star Spangled Banner, 
 God Bless America, Dixieland, California Here I Come, 
 Anchors Away, and The Eyes of Texas.  Obviously they earned 
-some tips.  
+some tips.
 
 When the doors finally opened Natasha pushed us along 
 giving us just enough time to see things but keeping us 
@@ -158,7 +164,7 @@ was over we were able to do the same with dozens of
 original paintings by Van Gough, Raphael, Rubens, Van Dyck, 
 Degas, Renoir, Monet, Matisse, Gauguin, and Rembrandt.  In 
 fact there was a large room filled with originals by 
-Rembrandt.  
+Rembrandt.
 
 I have never been much of an art connoisseur.  I am 
 generally less impressed with the art itself as with its 
@@ -175,14 +181,14 @@ is meant to represent God, is filled with the glow of love
 for his son.  The son traveled some wrong roads and made 
 some really bad decisions, yet the father’s face is filled 
 with love, and forgiveness, and joy that his son has come 
-home.  
+home.
 
 As I stared into the eyes of Rembrandt’s father figure my 
 own eyes began to water, and for a moment I realized how a 
 piece of art can really speak to the soul.  I remained 
 transfixed for several minutes after my group had moved 
 on.  Then I wiped my eyes and hustled to catch up.  There 
-was a Michelangelo sculpture waiting ahead. 
+was a Michelangelo sculpture waiting ahead.
 
 After eating salmon and borsch soup at a local restaurant 
 we were dropped at the Babushka gift shop to spend some of 
@@ -193,12 +199,13 @@ fortress.  To wrap up our day we boarded a boat for a
 leisurely cruise up and down the Neva River.  Natasha spoke 
 non-stop for the next two hours giving us the history of 
 every building, bridge, and park we passed as a waiter 
-brought us champagne and caviar canapés.  
+brought us champagne and caviar canapés.
 
 We were exhausted by the time we returned to the ship, but 
 we hated to leave knowing that there was so much of St. 
 Petersburg that we had left unseen.  We tipped Natasha 
 generously and hoped that we could return someday and let 
-her show us much more of her beautiful city.             
+her show us much more of her beautiful city.
+
 
 

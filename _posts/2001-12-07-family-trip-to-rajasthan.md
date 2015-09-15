@@ -8,10 +8,20 @@ layout: post
 
 ### Written by: maniraji
 
+Rajasthan is a state in western India. It is a 
+historic state ruled by Rajput kings who ruled the area in 
+an excellent way and persistently resisted the advances of 
+Mughal and other Muslim emperors of Delhi. A part of the 
+state is the Thar Desert, the only desert in India. We 
+started our tour by a train to Jaipur city. Apart from me 
+(Mani Kumar), the travelers were my wife (Aparajitha) and 
+my daughters (Sneha & Amoolya). We were on the train for 
+about 29 hours continuously. (As we traveled from our 
+Hyderabad city in southern India, we chose to travel by 
+train. However, you can fly to Jaipur from New Delhi and 
+Mumbai.)
 
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- ---
- 
-
 
 JAIPUR:
 	We alighted the train at Jaipur station on October 
@@ -23,7 +33,7 @@ visited was Birla temple, a temple built by Birla family
 the Central Museum & zoo. In the Central Museum, there is a 
 collection of various Rajasthani costumes, tribal costumes, 
 swords used by Rajput kings, old miniature paintings, ivory 
-articles etc. 
+articles etc.
 
 We then entered the pink city. The pink city is a part of 
 Jaipur and it is enclosed by walls on all sides. It was 
@@ -53,7 +63,7 @@ bed. The mirrors on the wall enhanced the light, as though
 hundreds of lamps were lit. The mirrors on the ceilings 
 made it look like the night sky full of stars!  On our way 
 back, we saw Jal Mahal, a palace in the middle of a lake. 
-The royal family used to spend their evenings here. 
+The royal family used to spend their evenings here.
 
 We visited a textile showroom where we were explained in 
 detail how the clothes were hand printed in blocks. No 
@@ -68,10 +78,7 @@ back with the repaired camera. After finishing the dinner,
 we left for the railway station to catch the train for 
 Jodhpur.
 
-
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- ---
- 
-
 
 JODHPUR:
 	After an overnight journey, we alighted the train 
@@ -94,7 +101,7 @@ gigantic new palace for his residence. With nearly 350
 rooms, it was one of the largest private residences of the 
 world.
 
-	We then went to Mehrangarh fort, built on a nearby 
+We then went to Mehrangarh fort, built on a nearby 
 hill. It is a strong, invincible and very impressive fort. 
 There is an elevator provided inside the fort for going to 
 the top. (It is the only fort where I saw an elevator.) 
@@ -106,20 +113,18 @@ almost all the houses in the old city were painted blue. On
 our way down, we visited Jaswant Thada, a cluster of royal 
 cenotaphs built in white marble.
 
-	We had our lunch and went to Mandore garden. There 
+We had our lunch and went to Mandore garden. There 
 are royal cenotaphs in this garden also, built much earlier 
 than those at Jaswant Thada. After spending a few hours in 
-the garden, we returned to our hotel. 
+the garden, we returned to our hotel.
 
-	In the evening, we went for shopping at Tripolia 
+In the evening, we went for shopping at Tripolia 
 Market. We bought Rajasthani dresses for Sneha and Amoolya 
 (our daughters aged 10 & 1 respectively). After finishing 
 the dinner at our hotel, we left for the railway station to 
 catch the train for Jaisalmer.
 
-
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
 JAISALMER:
 	Jaisalmer city lies in the heart of Thar Desert. 
@@ -138,9 +143,9 @@ few “Havelis” (mansions) built by the prominent families of
 those times. The beautiful architecture in the Havelis made 
 them very impressive. The interesting thing is that the 
 descendents of those families still live in the Havelis 
-only. 
+only.
 
-	As Jaisalmer is completely away from all the main 
+As Jaisalmer is completely away from all the main 
 routes (It is only 100 kilometers away from Pakistan 
 border.), the modern civilization has not invaded it much. 
 Most of the old houses, old architecture and the old 
@@ -148,7 +153,7 @@ culture are still retained. While roaming in the streets
 there, I felt as if I had traveled back in time into the 
 medieval age.
 
-	After another overnight journey, we alighted the 
+After another overnight journey, we alighted the 
 train at Jaisalmer station on October 22. After getting 
 refreshed in the hotel room, we started for our sightseeing 
 trip on an “Auto Rickshaw”. We went to “Nathmalji Haveli” 
@@ -161,15 +166,15 @@ by the family. “Salimsingh Haveli” was our next spot. It
 was built by Salimsingh, the prime minister during the 
 monarchy. The view of the fort was marvelous from the top 
 of the Haveli. In fact, Salimsingh wanted his Haveli to be 
-as tall as the fort, but the king didn’t allow it. 
+as tall as the fort, but the king didn’t allow it.
 
-	We went to Gadsisar lake next. There are a few 
+We went to Gadsisar lake next. There are a few 
 shrines in and around the lake giving the lake an exotic 
 look. We saw Royal Palace next and had a glimpse of the 
 lifestyle of the royal family. We skipped the fort because 
 it was closing time for the Jain temples inside the fort.
 
-	In the afternoon, we started for Sam sand dunes on 
+In the afternoon, we started for Sam sand dunes on 
 a jeep. No trip to Rajasthan is complete without a trip to 
 the picturesque sand dunes of Sam. Sam is 42 kilometers 
 away from Jaisalmer and 60 kilometers away from Pakistan 
@@ -187,9 +192,9 @@ setting and we watched a glorious sunset over the desert.
 The children played in the sand for some time. Sneha later 
 told me that the sand dune was the best place for her in 
 our entire tour. After roaming for some time on the camels, 
-we returned back to our jeep and then back to our hotel. 
+we returned back to our jeep and then back to our hotel.
 
-	For the first time since we started in Hyderabad, 
+For the first time since we started in Hyderabad, 
 we slept in our hotel room, but not on a train. We started 
 by Auto Rickshaw again. We went to the fort first, but came 
 back because the traffic was not being allowed inside the 
@@ -207,9 +212,9 @@ fell down and injured my knee at this park. I stepped on a
 stone and it broke under my weight. I lost the balance and 
 fell on my face. A few thorns of a plant pierced my left 
 arm. However, the injuries were minute and didn’t affect 
-our trip further. 
+our trip further.
 
-	From the Fossil Park, we went to the fort. We were 
+From the Fossil Park, we went to the fort. We were 
 unlucky this time also and the Jain Temples were just 
 closed. However, the king’s palace was still open and we 
 saw it. The dancing hall is the most significant one. 
@@ -220,7 +225,7 @@ womenfolk of the royal family used to watch the dance from
 the balconies above. Our sightseeing trip ended then and we 
 returned back to our hotel room.
 
-	I went to the railway station in the afternoon for 
+I went to the railway station in the afternoon for 
 booking our tickets to our next destination. We went for 
 shopping in the evening. Like Jodhpur, Jaisalmer is also a 
 good place for shopping. Many articles made of camel 
@@ -229,18 +234,17 @@ bedspread with exotic embroidery of Jaisalmer.  After the
 dinner, we left our hotel for our next destination, Mount 
 Abu.
 
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
 MOUNT ABU:
 
-	Mount Abu is the only hill station in Rajasthan 
+Mount Abu is the only hill station in Rajasthan 
 state. It is located at the southern tip of Aravali 
 mountain range, also a southern tip of Rajasthan. The 
 British rulers of pre-independent India selected this place 
 for escaping from the heat in the plains of Rajasthan.
 
-	After an overnight journey from Jaisalmer, we 
+After an overnight journey from Jaisalmer, we 
 reached Jodhpur on October 24 morning. We traveled by 
 another train and reached Abu Road station around noon. 
 From there, a ride on a taxi enabled us to reach Mount Abu 
@@ -252,7 +256,7 @@ enjoyed a boat ride on it. We then went to Honeymoon Point.
 The view of the surrounding valleys was marvelous from 
 there.
 
-	Our next spot was Delwara Jain Temples. Built in 
+Our next spot was Delwara Jain Temples. Built in 
 11th and 13th centuries, these marble temples are fine 
 specimens of excellent craftsmanship. The beauty of the 
 sculpture in these temples was really breathtaking. So many 
@@ -269,13 +273,13 @@ took six years to be completed. All the doors, walls,
 pillars, ceiling were all carved so finely. These temples 
 are a proof that any shape can be carved out of marble.
 
-	We then went to Om Shanti Bhawan, a spiritual 
+We then went to Om Shanti Bhawan, a spiritual 
 learning center for “Brahma Kumaris” (Brahma Kumaris are 
 like nuns in the Christian religion. The difference is that 
 Brahma Kumaris are taught about the spiritual concepts of 
 the Hindu religion.) Later, we retired to our hotel room.
 
-	We started in the morning next day by our taxi and 
+We started in the morning next day by our taxi and 
 first went to Peace Park, a meditation center for Brahma 
 Kumaris. A beautiful garden is maintained in this park. 
 From there, we went to Guru Shikhar (Guru’s peak), the 
@@ -286,17 +290,15 @@ enjoyed the superb view of the surrounding mountains,
 valleys and Mount Abu town from this peak. We then visited 
 Achalgarh fort and then, Adhar Devi temple which was carved 
 out of a huge rock. We then went to Shankar Math, a temple 
-as well as a spiritual center. 
+as well as a spiritual center.
 
-	We had lunch and returned to our hotel room. After 
+We had lunch and returned to our hotel room. After 
 resting for about two hours, we went to Sunset Point. It 
 was heavily crowded there. However, we were able to watch 
 the Sun set behind the mountains. The next day (October 
 26), we started for our next destination, Udaipur.
 
-
--- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- 
-
+-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
 
 UDAIPUR:
  	
@@ -333,7 +335,7 @@ followed this advice and founded the city Udaipur. After
 Udai Singh, his son Maharana Pratap Singh became the king 
 and he protected the kingdom with vigor and resisted the 
 advances of Mughal empire of Delhi. He was one of the most 
-famous kings of Rajasthan. 
+famous kings of Rajasthan.
 
 We started on October 26 at Mount Abu for Udaipur. The only 
 way connecting these two places is by road. Our bus started 
@@ -402,16 +404,13 @@ entertained her by making the puppet to jump on her hand
 occasionally.
 
 We then retired to our hotel room. After lunch, we started 
-for our final destination in Rajasthan, Chittaurgarh. 
-
+for our final destination in Rajasthan, Chittaurgarh.
 
 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- ---
- 
-
 
 CHITTAURGARH:
 
-	The fort at Chittaurgarh is the largest one in 
+The fort at Chittaurgarh is the largest one in 
 India. A large hill was converted into a gigantic fort by 
 Chitrangada Maurya and it was later named Chittaurgarh 
 after him. The history of Udaipur and the history of 
@@ -430,7 +429,7 @@ lady of not only Chittaurgarh, but the entire India. Khilji
 saw only her mirror image and he was breathless at her 
 stunning beauty. He then developed an evil plan on his 
 mind, to take Padmini to his own palace and forcibly marry 
-her. 
+her.
 
 After returning to his fort at Delhi, Khilji assembled a 
 huge army, went to Chittaurgarh and attacked it. There was 
@@ -459,7 +458,7 @@ cloud in the sky. I was delighted to see it because it was
 the first piece of cloud we saw in our entire trip. 
 Rajasthan was such a dry area that the sky was 100% clear 
 throughout the day at all places. We reached Chittaurgarh 
-at about 7 PM. 
+at about 7 PM.
 
 By next morning, my throat improved a lot and I could feel 
 it almost normal. We started to see the fort by an “Auto 
@@ -497,7 +496,7 @@ The steps in the tower were not only narrow, but slippery
 at some places. I slipped once while coming down, but 
 luckily not injured. However, my heart was filled with joy. 
 Climbing the Victory Tower was one of my ambitions for many 
-years and it had been fulfilled. 
+years and it had been fulfilled.
 
 Near the Victory Tower, there is Gaumukhi, a natural stream 
 of water. The water comes out of a rock through a statue of 
@@ -548,5 +547,6 @@ were traveling the entire next day, i.e. October 29.
 Finally, on October 30, we reached Hyderabad at 6 AM. We 
 reached our home and back to our regular life at 6.30 AM. 
 That was the end of our pleasant rip to Rajasthan.
+
 
 

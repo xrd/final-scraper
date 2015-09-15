@@ -8,6 +8,8 @@ layout: post
 
 ### Written by: MD
 
+Translation -  "Foreigners in India"
+
 Well since we last wrote we were heading for India.
 
 On our way there we stopped in at Chitwan Nat. Park
@@ -64,7 +66,7 @@ shooting waterfowl. Now, about a third of the park is
 flooded which makes a perfect location to see the
 endangered Siberian crane along with many herons,
 stags, and geese to name just a few, which we did
-while riding on bicycles. 
+while riding on bicycles.
 
 Then another major highlight, in Agra - the Taj Mahal.
 This has got to one of the most amazing man made
@@ -87,5 +89,6 @@ and bazaars)
 
 Thanks to those who responded and gave us a run down
 of what you have been up to.
+
 
 

@@ -8,6 +8,10 @@ layout: post
 
 ### Written by: Chris Dawson (cdawson)
 
+I went diving in Dubrovnik this morning. Anton met me at his
+shop down the road the pertol station in Lapad. We geared up
+and left out to one of the islands a few kilometers from shore.
+
 The first stop we made was for a cave dive. It was just the
 two of us, so Anton dropped his gear into the water after
 filling his BCD vest with air, and helped me into my two
@@ -111,5 +115,6 @@ Croatian diving license good for one year (about 100 Kuna or
 $12), and the free boat ride out. Well worth it. Anton can
 be reached at 435-737, via email at diver@vdu.hr or
 http://diver.vdu.hr/
+
 
 

@@ -8,6 +8,14 @@ layout: post
 
 ### Written by: Danny Spitler (dispitler)
 
+On our last day in Paris Pam and I decided to start our day 
+by touring the Sacre-Coeur Cathedral.  This is a gleaming 
+white cathedral, which sits atop Montmartre Hill, the 
+highest point in Paris.  It intrigued us when we saw if 
+from atop the Eiffel Tower, and a young lady that we 
+visited with that night told us that it was in a very 
+interesting part of the city.
+
 When we emerged from the subway and entered the street 
 scene we understood exactly what she had meant.  We were in 
 a bustling, working class neighborhood filled with a myriad 
@@ -15,7 +23,7 @@ of people of varying nationalities.  Obviously a melting
 pot neighborhood.  We also quickly decided that it was 
 the “outlet mall” district of Paris.  Retail stores filled 
 the bottom floors of all the buildings and their goods 
-overflowed onto the sidewalks. 
+overflowed onto the sidewalks.
 
 The walk down the crowded sidewalk was an interesting 
 challenge because we were competing for space with tables 
@@ -34,7 +42,7 @@ sizing.  A very harried salesman was waving his arms at
 another couple of shoppers and telling them in no uncertain 
 terms to take their business elsewhere.  He turned to us 
 with a frustrated expression and said, “Russians, they are 
-impossible.”  We wondered what he thought of Americans.  
+impossible.”  We wondered what he thought of Americans.
 
 He was a tall handsome Spaniard who spoke a little English 
 and Pam let him know that she wasn’t sure what size she 
@@ -49,7 +57,7 @@ against her waist and hoping for a good fit.  She picked
 out a pale blue and a dark blue, paid the tab, and we dove 
 back into the sidewalk frenzy.  Of course I now had to deal 
 with the idea that I’m in love with a woman who wears a 
-size 40. 
+size 40.
 
 We found the side street leading up to the cathedral and 
 walked to the base of the mountain where our subway passes 
@@ -59,7 +67,7 @@ has a curious architectural style, which the guidebook
 calls a mixture of Romanesque and Byzantine.  It is 
 gleaming white with one tall dome and four smaller domes.  
 The interior was typically impressive, but I was anxious to 
-see if there was a stairway to the top of the dome.  
+see if there was a stairway to the top of the dome.
 
 I can tell that Pam still isn’t too sure about this growing 
 obsession for climbing to the top of cathedrals.  However, 
@@ -67,7 +75,7 @@ she just rolled her eyes with acceptance as she has done
 with my uncontrollable desire to change lanes and my need 
 to grab the remote control and check out the other eighty 
 TV stations during a two-minute commercial break in the 
-movie we are watching.  
+movie we are watching.
 
 I guess that the Catholics have discovered that there is 
 money to be made from those of us with these masochistic 
@@ -82,7 +90,7 @@ again Paris was laid out before me, and this time the sight
 of the Eiffel Tower was included in the view.  It was a 
 partially sunny day so parts of the city were in the 
 shadows of fluffy white clouds, while other parts were 
-basking in bright sunlight.  It was a very nice effect.     
+basking in bright sunlight.  It was a very nice effect.
 
 It was approaching lunchtime when I reconnected with Pam 
 and we rode the funicular back down to the street below the 
@@ -98,7 +106,7 @@ ordered a sandwich for lunch and had him make us a
 delicious strawberry crepe for dessert.  After loading up 
 with a few more souvenirs we made our way back to our hotel 
 to deposit all of our goodies before striking out on our 
-afternoon tour. 
+afternoon tour.
 
 We headed for the Les Invalides.  This is a vast complex of 
 buildings, which was originally built as a home for old and 
@@ -115,7 +123,7 @@ The building complex that housed all of the old soldiers is
 now a large military museum.  We picked out some exhibits 
 that were of particular interest and spent the rest of the 
 afternoon on French military history, including an 
-excellent section on World War II.  
+excellent section on World War II.
 
 We did a little more walking before catching the subway 
 back to the hotel where we embarked on another quest for an 
@@ -128,16 +136,16 @@ but it closed at 8:00.  My watch was reading 7:59 so we
 dashed down the street and found it just as they were 
 locking the doors.  The sales girl let us in and we pointed 
 to a couple of delicious looking fruit pastries and a small 
-loaf of French bread.  
+loaf of French bread.
 
 We were ready for an early night.  It was still daylight 
 when we adjourned to our small French hotel room.  We 
 opened the window and listened to the street noises drift 
 up to our seventh floor room.  We enjoyed the flaky crust 
 with peach filling, we made love, and then we drifted off 
-to sleep.  
+to sleep.
 
-It was our last night in Paris.  
+It was our last night in Paris.
 
 
 

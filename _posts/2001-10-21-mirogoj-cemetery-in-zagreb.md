@@ -8,6 +8,17 @@ layout: post
 
 ### Written by: Chris Dawson (cdawson)
 
+This morning I decided to visit Mirogoj cemetery, in the 
+north part of Zagreb.  I got on the bus at the stop above 
+the Dolac market.  I wasn't sure about where to get off for 
+the cemetery, but when I saw the countless older women 
+holding bouquets of flowers, I knew that I could just 
+follow them off and everything would be alright.  I bought 
+an all day ticket on the bus for 16 kuna after a woman on 
+the bus politely explained in English that I could buy the 
+ticket right there.  I was worried that I would have to 
+find a newspaper stand down in Trg Jelaèiæa.
+
 Anyone who had forgotten flowers in their haste needn't 
 have worried, for there were plenty of flower stands 
 dotting the edge of the cemetery as the bus pulled up and 
